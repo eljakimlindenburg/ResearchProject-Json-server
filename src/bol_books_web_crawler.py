@@ -36,7 +36,7 @@ def book_page_spider(start_page: int, end_page: int) -> None:
             href = "https://www.bol.com" + link.get("href")
             try:
                 books.append(deserialize_page_into_book_model(href))
-            except Exception as err:
+            except Exception:
                 print("Could not deserialize link on page {}:\n{}".format(i, href))
                 traceback.print_exc()
         books_json: str = str(jsonpickle.encode(books, unpicklable=False, indent=2))
@@ -60,6 +60,7 @@ def deserialize_page_into_book_model(url: str) -> BookModel:
     book_page_img_src_tag: Tag = book_page_body_tag.find("img", {"class": "js_product_thumb"})
     if book_page_img_src_tag is None:
         book_page_img_src_tag = book_page_body_tag.find("img", {"class": "js_product_img"})
+    book_page_price_tag: Tag = book_page_body_tag.find("div", {"data-test": "priceWithoutDiscount"})
 
     url_sections = url.split("/")
     book_id: str = url_sections[len(url_sections) - 2]
@@ -72,6 +73,7 @@ def deserialize_page_into_book_model(url: str) -> BookModel:
         book_author = str(book_page_author_tag.text)
     book_average_rating: float
     book_img_src: str = str(book_page_img_src_tag.get("src"))
+    book_price: float = float(".".join(str(book_page_price_tag.text).split()).replace("-", "0"))
     book_reviews: List[ReviewModel] = []
 
     if book_reviews_tag is None:
@@ -117,6 +119,7 @@ def deserialize_page_into_book_model(url: str) -> BookModel:
                      title=book_title,
                      author=book_author,
                      desc=book_desc,
+                     price=book_price,
                      average_rating=book_average_rating,
                      image_src=book_img_src)
     for review in book_reviews:

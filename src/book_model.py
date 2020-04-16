@@ -1,3 +1,4 @@
+import random
 from typing import List
 from review_model import ReviewModel
 
@@ -8,11 +9,13 @@ class BookModel:
                  author: str = "",
                  desc: str = "",
                  average_rating: float = 0.0,
-                 image_src: str = "") -> None:
+                 image_src: str = "",
+                 price: float = 0.01) -> None:
         self._id = _id
         self.title = title
         self.author = author
         self.desc = desc
+        self.price = price
         self.average_rating = average_rating
         self.image_src = image_src
         self._reviews: List[ReviewModel] = []
@@ -62,3 +65,11 @@ class BookModel:
     @image_src.setter
     def image_src(self, value: str) -> None:
         self._image_src = value
+
+    @property
+    def price(self) -> float:
+        return self._price
+
+    @price.setter
+    def price(self, value: float) -> None:
+        self._price = value
