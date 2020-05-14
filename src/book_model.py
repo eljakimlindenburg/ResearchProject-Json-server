@@ -9,6 +9,7 @@ class BookModel:
                  author: str = "",
                  desc: str = "",
                  average_rating: float = 0.0,
+                 image_thumbnail: str = "",
                  image_src: str = "",
                  price: float = 0.01) -> None:
         self._id = _id
@@ -17,6 +18,7 @@ class BookModel:
         self.desc = desc
         self.price = price
         self.average_rating = average_rating
+        self.image_thumbnail = image_thumbnail
         self.image_src = image_src
         self._reviews: List[ReviewModel] = []
 
@@ -57,6 +59,14 @@ class BookModel:
     @average_rating.setter
     def average_rating(self, value: int) -> None:
         self._average_rating = value
+
+    @property
+    def image_thumbnail(self) -> str:
+        return self._image_thumbnail
+
+    @image_thumbnail.setter
+    def image_thumbnail(self, value: str) -> None:
+        self._image_thumbnail = value
 
     @property
     def image_src(self) -> str:

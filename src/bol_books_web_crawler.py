@@ -35,7 +35,12 @@ def book_page_spider(start_page: int, end_page: int) -> None:
             link: Tag = element_tag.find("a")
             href = "https://www.bol.com" + link.get("href")
             try:
-                books.append(deserialize_page_into_book_model(href))
+                book = deserialize_page_into_book_model(href)
+                book_thumbnail_tag: Tag = element_tag.find("img")
+                book.image_thumbnail = book_thumbnail_tag.get("data-src")
+                if book.image_thumbnail is None:
+                    book.image_thumbnail = book_thumbnail_tag.get("src")
+                books.append(book)
             except Exception:
                 print("Could not deserialize link on page {}:\n{}".format(i, href))
                 traceback.print_exc()
@@ -57,9 +62,9 @@ def deserialize_page_into_book_model(url: str) -> BookModel:
     book_page_desc_tag = book_page_body_tag.find("div", {"data-test": "description", "itemprop": "description"})
     if book_page_desc_tag is None:
         book_page_desc_tag = book_page_body_tag.find("p", {"data-test": "text-short"})
-    book_page_img_src_tag: Tag = book_page_body_tag.find("img", {"class": "js_product_thumb"})
+    book_page_img_src_tag = book_page_body_tag.find("img", {"class": "js_product_img"})
     if book_page_img_src_tag is None:
-        book_page_img_src_tag = book_page_body_tag.find("img", {"class": "js_product_img"})
+        book_page_img_src_tag: Tag = book_page_body_tag.find("img", {"class": "js_product_thumb"})
     book_page_price_tag: Tag = book_page_body_tag.find("div", {"data-test": "priceWithoutDiscount"})
 
     url_sections = url.split("/")

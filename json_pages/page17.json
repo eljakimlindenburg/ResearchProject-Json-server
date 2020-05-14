@@ -1,160 +1,515 @@
 [
   {
-    "id": "9200000040653366",
-    "title": "\"F.C. De Kampioenen 86 - De Lotto-Kampioen\"",
+    "id": "9200000123092796",
+    "title": "Urbanus - 188 De  aprilvissers",
+    "author": "Urbanus",
+    "desc": "Het is 1 april en dus haalt Urbanus zijn beste moppen uit. Sommigen lopen er met open ogen in, anderen zijn er niet vatbaar voor. Maar in Tollembeek blijkt de doodstraf te staan op het maken van 1-aprilgrappen. Of is dat ook een grap?",
+    "price": 6.99,
+    "average_rating": 4.3,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/6/9/7/2/9200000123092796.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/9/7/2/9200000123092796.jpg",
+    "reviews": [
+      {
+        "id": "119984599",
+        "author_name": "Lex18",
+        "title": "veel leesplezier",
+        "timestamp": "2020-04-25",
+        "rating": 80,
+        "comment": "Het is een leuk verhaal om even mee te ontspannen en op avontuur te gaan met onze goede vrienden Urbanus en zijn familie."
+      },
+      {
+        "id": "119471070",
+        "author_name": "ddh08",
+        "title": "Op en top Urbanus !",
+        "timestamp": "2020-04-08",
+        "rating": 100,
+        "comment": "Alles wat je van Urbanus kunt verwachten zit erin, een waanzinnig verhaal ! Een verademing in deze truttige tijden en niet voor tere zieltjes bedoeld. "
+      },
+      {
+        "id": "119863208",
+        "author_name": "Ster45",
+        "title": "niet meer zo goed",
+        "timestamp": "2020-04-21",
+        "rating": 80,
+        "comment": "urbanus verslapt"
+      }
+    ]
+  },
+  {
+    "id": "9200000124091888",
+    "title": "Zwanenzang 1945",
+    "author": "Walter Kempowski",
+    "desc": "Twintig jaar lang verzamelde de Duitse schrijver Walter Kempowski brieven,dagboeken en memoires waarin de Tweede Wereldoorlog werd beschreven.In 1993 publiceerde hij de eerste vier boeken van een werk dat uiteindelijktien delen zou beslaan. In Das Echolot bracht Kempowski honderden stemmenbijeen die van dag tot dag verslag doen van hun oorlogservaringen. Elkboek geeft een caleidoscopisch beeld van enkele weken uit de Tweede Wereldoorlog.Kempowski ontving louter lof voor dit uitzonderlijke project; DasEcholot werd in Duitsland een grote bestseller. In Zwanenzang 1945, het sluitstukvan de reeks, wordt het einde van de oorlog beschreven. We lezen dagboektekstenvan staatslieden en generaals, brieven van soldaten en burgers,evenals herinneringen van schrijvers en journalisten. Tezamen vormen aldeze stemmen een koor dat op indringende wijze het einde van de TweedeWereldoorlog laat weerklinken.",
+    "price": 29.99,
+    "average_rating": 5.0,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/8/8/8/1/9200000124091888.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/8/8/1/9200000124091888.jpg",
+    "reviews": [
+      {
+        "id": "120356107",
+        "author_name": "AdvB",
+        "title": "De ondergang van Hitlers Duitsland",
+        "timestamp": "2020-05-05",
+        "rating": 100,
+        "comment": "Dit collectieve dagboek over de ondergang van Hitler en zijn Derde Rijk is ongekend fascinerend en opent je ogen over hoe erg het allemaal was."
+      }
+    ]
+  },
+  {
+    "id": "9200000091456247",
+    "title": "Ik leer met Disney 0 - Leuke schrijf-, lees- en telspelletjes Groep 1, 2de kleuterklas",
+    "author": "Anonymous",
+    "desc": "Hoera, je kind zit in de tweede kleuterklas/groep 1! Dan wordt het leuk om al af en toe eens te oefenen. Dit boek staat boordevol speelse opdrachten waarmee hij of zij belangrijke vaardigheden oefent: cijfers herkennen, boogjes schrijven, logisch denken, letters vergelijken, getallen in de juiste volgorde zetten en nog veel meer. En wat is er leuker dan deze oefeningen te doen samen met Nemo, Bliksem McQueen, Simba, Assepoester en een heleboel andere favoriete Disneyfiguren?",
+    "price": 10.95,
+    "average_rating": 0,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/7/4/2/6/9200000091456247.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/7/4/2/6/9200000091456247.jpg",
+    "reviews": []
+  },
+  {
+    "id": "9200000022206033",
+    "title": "Baby Ziet... - Kijkboek met spiegeltje 0-6 maanden",
+    "author": "Diverse auteurs",
+    "desc": "Onderdeel van de serie Baby ziet.... De reeks Baby ziet is ondertussen al een beetje een klassieker. Het principe is eenvoudig: eenvoudige patronen in zwart-wit, hier en daar aangevuld met een felle kleur. Helemaal op maat van de waarneming van baby s. Tekeningen die de hersenen en de visuele waarneming stimuleren! In dit nieuwe kijkboek staan weerom een heleboel leuke patronen. En als kers op de taart zit er achterin het boek een spiegeltje!",
+    "price": 9.99,
+    "average_rating": 4.8,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/3/3/0/6/9200000022206033.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/3/0/6/9200000022206033.jpg",
+    "reviews": [
+      {
+        "id": "92859222",
+        "author_name": "Yara114",
+        "title": "Geweldig cadeau",
+        "timestamp": "2017-09-01",
+        "rating": 100,
+        "comment": "Met een pasgeboren baby kan je nog weinig doen. Maar soms zijn ze wel al heel alert. Dit boekje is geweldig om samen in te kijken. Je zult zien dat je kleintje alle pagina's heel precies bekijkt. Het spiegeltje erin was bij ons een groot succes. Echte aanrader dit boekje, ook leuk om te geven als kraamcadeau."
+      },
+      {
+        "id": "82835332",
+        "author_name": "kaarsaar",
+        "title": "Erg leuk!",
+        "timestamp": "2017-03-14",
+        "rating": 100,
+        "comment": "Ik kreeg dit boekje als kraamcadeau voor mijn zoontje en dacht: een boek voor baby's wat een onzin. Tot ik het ging 'lezen' met hem.Hij lijkt wel gehypnotiseerd door de patronen in het boekje! Echt een aanrader en erg leuk om weg te geven (zelf ook al cadeau gedaan aan mn schoonzusje)"
+      },
+      {
+        "id": "89239192",
+        "author_name": "MeriaB",
+        "title": "Het boekje om te lezen met je baby",
+        "timestamp": "2017-06-27",
+        "rating": 100,
+        "comment": "Je kunt niet vroeg genoeg beginnen met voorlezen en met dit speciaal voor babies ontworpen boekje, kun je al beginnen met een paar weken. De plaatjes trekken direct de aandacht. Doordat je baby steeds meer kleuren gaat zien, ontdekt hij/zij steeds meer nieuwe dingen. Het materiaal is stevig, waardoor je baby het uiteindelijk ook zelf kan vastpakken zonder het kapot te scheuren. Enig nadeel is dat het gemaakt is van karton en daardoor niet 'sabbel-proof' is.Ideaal als kraamcadeautje."
+      }
+    ]
+  },
+  {
+    "id": "1001004007524863",
+    "title": "Is dit een mens",
+    "author": "Primo Levi",
+    "desc": "In 1943, na de tweedeling van Itali, met de koning en de geallieerden in het zuiden en Mussolini in het noorden, trok Primo Levi als verzetsstrijder de bergen in, maar werd al na enkele maanden opgepakt. Als jood werd hij naar Auschwitz gedeporteerd, vanwaar hij als een van de weinigen terugkeerde. Onmiddellijk na de bevrijding schreef hij, aanvankelijk uit een chaotische, blinde drang Is dit een mens, dat wordt beschouwd als een van de klassieke getuigenissen over de jodenvervolging.",
+    "price": 12.99,
+    "average_rating": 0,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/3/6/8/4/1001004007524863.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/6/8/4/1001004007524863.jpg",
+    "reviews": []
+  },
+  {
+    "id": "9200000114043252",
+    "title": "Superkrachten voor je hoofd: MINDGYM voor Kids",
+    "author": "Wouter de Jong",
+    "desc": "We leren onze kinderen zo ongeveer alles. Behalve de gebruiksaanwijzing van hun eigen hoofd. Dankzij het grote succes van Mindgym: Sportschool voor je geest hebben talloze volwassenen al ontdekt hoe ze met eenvoudige oefeningen hun mentale conditie kunnen verbeteren. Hoog tijd dus om ook onze kinderen te leren hoe ze baas kunnen worden in hun hoofd. Daarom heeft Wouter de Jong nu Mindgym voor kids geschreven.        Superkrachten voor je hoofd is een echt doeboek om (samen met je ouders of alleen) te ontdekken hoe je koning in je kop wordt. Je leert hoe je beter om kunt gaan met onaangename ervaringen, hoe je je sociale skills (in plaats van sociale media) kunt verbeteren en meer zelfvertrouwen krijgt. De Jong pakt dit onderwerp weer aan op zijn ondeugende, relativerende manier, met mooie anekdotes, grappige weetjes en rake kinderquotes ( is als poepen in je broek om de ander in de stank te zetten. Uiteindelijk heb je er zelf het meeste last van). Het boek staat vol leuke oefeningen met toegankelijke uitleg, challenges die je met je ouders kunt doen en geestige tekeningen van Hein de Kort.         Daarnaast kun je audio-opnames downloaden om de technieken kracht bij te zetten  er is een speciale Mindgym-titelsong, ingezongen door Elise Schaap. Deze methode geeft kinderen speelse tools om beter om te kunnen gaan met stressvolle, saaie of moeilijke momenten in hun leven, oftewel: hoe ze hun eigen mentale superkrachten kunnen ontwikkelen!   ",
+    "price": 18.99,
+    "average_rating": 4.8,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/2/5/2/3/9200000114043252.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/2/5/2/3/9200000114043252.jpg",
+    "reviews": [
+      {
+        "id": "115278282",
+        "author_name": "SJMschrijft",
+        "title": "Onmisbaar",
+        "timestamp": "2019-11-04",
+        "rating": 100,
+        "comment": "Net zoals met de voorafgaande boeken van Mindgym heeft Wouter de Jong Superkrachten voor je hoofd: Mindgym voor kinderen als een soort van leerboek geschreven. Dat betekent niet dat het dan saai is, integendeel. De kleurrijke tekeningen van Hein de Kort voegen ook daadwerkelijk iets toe en motiveren de jonge lezers echt iets met dit leuke naslagwerk te doen. Aan de hand van experimenten, leerzame feitjes en de kopjes waarin de lezers zelfs de ouders kunnen betrekken tijdens de mindgym, kunnen jonge lezers leren over onder andere emoties, gedachten en fantasie. Daarnaast komen er ook thema als aandacht, daadkracht en eerlijkheid aan de orde. En helemaal mooi: het boek spreekt ook tegen ouders of verzorgers. Zelfs voor kinderen weet Maven Publishing er weer een aantrekkelijk boek van te maken. Het mag dan ook eigenlijk niet alleen thuis ontbreken, het is ook een absolute musthave voor in het klaslokaal."
+      },
+      {
+        "id": "115391665",
+        "author_name": "CreativeDifference",
+        "title": "Zelf de regie over veel meer dingen",
+        "timestamp": "2019-11-08",
+        "rating": 80,
+        "comment": "\"Als je leven een game is, dan is je hoofd de controller\", stelt de auteur van dit boek. Dat spreekt kinderen meteen aan: jouw hoofd, dus je hebt zelf de controle. Alleen nog even leren hoe dat moet. Daarvoor heeft de auteur allerlei voorbeelden bedacht, met korte oefeningen ter verduidelijking, een challenge om te testen of je het snapt (en waarin je het tegen je ouders opneemt, met een beloning in het verschiet) en de korte, duidelijke informatie wordt aangevuld door humoristische tekeningen van Hein de Kort.Er komt van alles aan bod dat zowel jongens als meisjes aanspreekt en die elk kind wel herkent: boosheid, teleurstelling, 'zeurende' ouders, pestkoppen op school, angst, piekeren, gebrekkige concentratie en ook meer autonomie krijgen, het gezelliger houden en een soort balans vinden voor al die dingen die door je hoofd spoken op een dag.Je kunt het boek samen met je kind doornemen, of het van tevoren bekijken (dan ben je vast voorbereid op de challenges die eraan komen), maar vanaf een jaar of acht kan een kind (dat goed leest) het ook goed zelf doornemen. Het is echt toegespitst op hun beleving, met korte tekstjes en praktijkvoorbeelden en een heel prettige schrijfstijl die ook kinderen in de brugklas nog goed kunnen hebben. Het is een kinderboek, maar niet kinderachtig. (Voor de jongere lezers: er zijn liedjes bij gemaakt!) En er zitten ook genoeg punten in waar je als meelezende volwassene nog je voordeel mee kunt doen."
+      },
+      {
+        "id": "115548326",
+        "author_name": "lizzyblok",
+        "title": "Een must have voor alles kids",
+        "timestamp": "2019-11-10",
+        "rating": 100,
+        "comment": "Wouter de Jong heeft een boek geschreven dat ieder kind zou moeten lezen. Je hoofd werkt net als een computer, jij bepaald welke beelden je ziet en wat je doet met die informatie. Op een leuke manier leren kinderen hoe ze mindful kunnen zijn, maar ook zaken zoals faalangst kunnen met dit boek verholpen. Door de leuke illustraties spreekt dit boek enorm aan. Ook zit er aan het einde van ieder hoofdstuk een uitdaging in die kinderen kunnen doen met hun ouders, leerkracht of coach. Wouter gebruikt taal die bij kinderen aanspreekt, zoals prank je hoofd en voorbeelden waarin kinderen zich kunnen herkennen. Werk je in het onderwijs of ben je kindercoach, zorg dan ook dat je in bezit bent van dit boek. Je kunt hier kinderen echt mee helpen!"
+      }
+    ]
+  },
+  {
+    "id": "9200000101843627",
+    "title": "Begin met het waarom",
+    "author": "Simon Sinek",
+    "desc": "Simon Sinek laat in \"Begin met het Waarom' zien dat organisaties en leiders die zich richten op het Waarom van hun bedrijf succesvoller, invloedrijker en innovatiever zijn. Leiderschapsstijlen kunnen verschillen, maar alle grote, inspirerende leiders hebben  ding met elkaar gemeen: ze weten dondersgoed waarom ze doen wat ze doen. Toch sneeuwt bij veel bedrijven het Waarom nogal eens onder in de hectiek van de dag.\"Begin met het Waarom' helpt je om het Waarom weer centraal te stellen en zo beter en authentieker leiding te geven en je omgeving te inspireren. Met vele voorbeelden uit de praktijk toont Sinek aan dat het werkt. Dit boek is gebaseerd op de idee uit zijn TEDX-talk over leiderschap, waarmee hij wereldwijd de aandacht trok.",
+    "price": 15.0,
+    "average_rating": 4.0,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/7/2/6/3/9200000101843627.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/7/2/6/3/9200000101843627.jpg",
+    "reviews": [
+      {
+        "id": "44767787",
+        "author_name": "Vriesdea",
+        "title": "betrokkenheid",
+        "timestamp": "2015-01-17",
+        "rating": 100,
+        "comment": "Dit boek niet lezen als je gelukkig bent. Dit boek wel lezen als je hoop hebt op verbetering. De invloed die de inhoud op je heeft hangt af van de processen waarin je zit. Voor mij was het een EYE opener. Ook zijn tweede boek geeft me de steun om vastgeroeste ouwe zooi op mijn werk in beweging te krijgen. Dat is althans mijn hoop. Wil je verandering in je organisatie (of je leven!) neem het initiatief en schud de angst van je af. Dit boek geeft je de intellectuele steun om je gevoel te onderbouwen. Weg met de angst, vooruit met de hoop."
+      },
+      {
+        "id": "20374714",
+        "author_name": "BirgitVandermeulen",
+        "title": "Geen boek maar een manier van leven!",
+        "timestamp": "2012-08-02",
+        "rating": 100,
+        "comment": "Dit boek van Simon Sinek is niet een boek wat je leest en dan in de kast zet. Het is een boek wat als het ware in je kruipt en je niet meer los laat. Het inspireert je om na te denken over je eigen Why: wat zit er achter alles wat je doet, waar geloof jij in, waar sta jij voor?Dit boek is een aanrader voor zowel coaches en consultants als mensen die willen ontdekken wat hen persoonlijk drijft en daar woorden aan willen geven. Het boek beschrijft heel veel mooie voorbeelden op een hele gemakkelijke en toegankelijke wijze. En bovenal....het inspireert tot in je tenen!Heel veel leesplezier en ik heb je gewaarschuwd....als je eenmaal Sinek hebt gelezen laat het je nooit meer los!"
+      },
+      {
+        "id": "31958214",
+        "author_name": "Stevenwest",
+        "title": "Waarom",
+        "timestamp": "2013-11-19",
+        "rating": 80,
+        "comment": "Dit boek heb ik gekocht nadat ik de TEDx speech heb gezien van Simon Sinek. Leuk boek gemakkelijk om te lezen. In het boek komt het telkens weer op het zelfde neer, waardoor het soms een herhaling wordt van wat je al gelezen hebt. Ik vind dit boek inspirerend omdat het onze gewoonlijke denkpatronen toets en kan veranderen. Het enige minpuntje is dat ze dit boek ook kunnen uitdunnen zodat de herhalingen eruit zijn."
+      }
+    ]
+  },
+  {
+    "id": "9200000123961568",
+    "title": "Het dilemma",
+    "author": "B.A. Paris",
+    "desc": "Het dilemma is de eerste roman van BA Paris. Eerder publiceerde ze de bestsellers Achter gesloten deuren, Gebroken en Breng me terug.In Het dilemma van BA Paris geeft Livia een groot feest ter gelegenheid van haar veertigste verjaardag. Ze droomt er al van sinds haar bescheiden bruiloft, jaren geleden. Iedereen die ze liefheeft zal op het feest aanwezig zijn, behalve dochter Marnie, die in het buitenland studeert. Stiekem is Livia opgelucht dat Marnie niet kan komen. Ze moet haar echtgenoot Adam iets vertellen over hun dochter, een geheim dat ze heeft ontdekt, maar ze wacht totdat het feest voorbij is zodat hun geluk niet wordt verstoord. Adam wil dat alles perfect is voor Livia en heeft vliegtickets voor Marnie gekocht, zodat ze als verrassing aanwezig kan zijn. Op de dag van het feest krijgt hij vreselijk nieuws. Hij moet het eigenlijk aan Livia vertellen, want hoe kan het feest nu doorgaan? Maar Livia ziet er zo gelukkig uit en de gasten kunnen er ieder moment zijn zou jij gaan om je lief nog een paar gelukkige uren te laten beleven? Eerder schreef BA Paris de bestsellers Achter gesloten deuren, Gebroken en Breng me terug. Met Het dilemma slaat ze een nieuwe richting in.",
+    "price": 20.99,
+    "average_rating": 2.5,
+    "image_thumbnail": "https://media.s-bol.com/Z62WRMJDnJp2/132x210.jpg",
+    "image_src": "https://media.s-bol.com/Z62WRMJDnJp2/529x840.jpg",
+    "reviews": [
+      {
+        "id": "120286065",
+        "author_name": "ruby67",
+        "title": "Mooie roman",
+        "timestamp": "2020-05-04",
+        "rating": 80,
+        "comment": "Vond het een mooie roman. Iets totaal anders dan haar andere boeken. Zeker ook af en toe herkenbaar en ontroerend."
+      },
+      {
+        "id": "120246448",
+        "author_name": "Sunny6",
+        "title": "Slecht",
+        "timestamp": "2020-05-02",
+        "rating": 20,
+        "comment": "Heb het in een uur uitgelezen, maar dat komt omdat ik hele bladzijdes heb overgeslagen.Wat een saai boek...Voorspelbaar.Geen aanrader."
+      }
+    ]
+  },
+  {
+    "id": "9200000120674241",
+    "title": "Het moois dat we delen",
+    "author": "Ish Ait Hamou",
+    "desc": "Soumia en Luc wonen in dezelfde buurt, maar kennen elkaar niet. Zij probeert wanhopig het verleden achter zich te laten. Hij leeft in en met het verleden. Wanneer ze elkaar bij toeval leren kennen, komen ze voor verscheurende keuzes te staan.",
+    "price": 9.99,
+    "average_rating": 4.7,
+    "image_thumbnail": "https://media.s-bol.com/jR19QODwwW14/138x210.jpg",
+    "image_src": "https://media.s-bol.com/jR19QODwwW14/550x836.jpg",
+    "reviews": [
+      {
+        "id": "116531059",
+        "author_name": "O498flower",
+        "title": "Het moois dat we delen, is een actuele en hartverscheurende roman!",
+        "timestamp": "2019-12-14",
+        "rating": 100,
+        "comment": "Ish Ait Hamou heeft me betoverd met zijn roman C.Vanaf toen was ik fan van zijn pure schrijfstijl die raakt.Het moois dat we delen is opnieuw een schot in de roos.Deze schokkende roman is er  met een einde dat ik nooit meer zal vergeten.Vanaf de eerste zin kom ik terecht in de complexe wereld van Soumia. Eerst weet ik enkel dat ze vijf jaar in de gevangenis gezeten heeft en leer ik haar wat beter kennen. In het begin focust het verhaal zich vooral op de moeilijkheden voor Soumia en haar familie, nadat ze ineens terug in hun leven is. Wat er gebeurd is, daar heb ik lang het raden naar. Stilaan wordt duidelijk waarom het zo moeilijk is voor Soumia om terug haar weg te vinden in de maatschappij. Tussen de regels lees ik hoe beschaamd ze is voor wat haar gedrag betekende toen en nu voor iedereen in haar omgeving.Ondanks de angst en pijn zijn er ook mensen in haar leven die Soumia omarmen en nieuwe kansen geven. Deze jonge vrouw wil eigenlijk gewoon opnieuw voluit leven en het verleden achter zich laten.Luc is een oudere eenzame man die in de buurt van Soumia woont. Zijn huis heeft een lege stoel waarop niemand mag zitten. Vijf jaar geleden veranderde alles voor hem. Vanaf die dag was niets nog als ooit tevoren. Sinds dat ogenblik overleeft Luc en is hij wanhopig op zoek naar antwoorden. Het verdriet is te groot en hij leeft grotendeels in het verleden.Wanneer de levens van Luc en Soumia elkaar kruisen, is dit het begin van een confronterende reis. De oudere man en jonge vrouw zijn wel buren, maar ze kennen elkaar niet. Luc is eigenlijk altijd een beetje bang geweest van zijn Marokkaanse buren. Wanneer hij de jonge Marokkaanse Soumia beter leert kennen, krijgen ze een aparte relatie. Door hun wonderlijke ontmoeting laat de auteur zien hoe belangrijk vriendschap, liefde en begrip voor iedereen is. Hij toont ook aan hoe echt luisteren naar de ander voor verbinding kan zorgen en vooroordelen kan doen verdwijnen.Ish Ait Hamou heeft een juweel van een boek geschreven, dat zo mooi en tegelijkertijd ook zo lelijk is.Wat ik hiermee wil zeggen, is dat deze auteur door zijn unieke schrijfstijl, met korte zinnen vol betekenis, naar mijn strot grijpt. Het moois dat we delen is intens, omdat het gaat over hoe moeilijk het is om te durven openstaan voor elkaar. Zonder een partij te kiezen en met heel veel respect voor beide overtuigingen schetst deze auteur het leven van twee mensen en de gevolgen van hun gedrag. Wat ontzettend bijzonder is, is dat hij twee culturen toont en deze op een magnifieke manier laat samensmelten. Het lelijke aan dit weergaloze verhaal is de confrontatie met onszelf en onze angstige maatschappij. Ish Ait Hamou sleurt me genadeloos mee in zijn onthutsende spiegel van onze samenleving. De auteur verweeft onze gevoelens rond nieuwe ervaringen, de schrik om onze identiteit te verliezen en de vrees voor de onvoorspelbare toekomst meesterlijk in deze beklemmende roman.Het moois dat we delen maakt duidelijk dat elk verhaal twee kanten heeft en het zou eigenlijk verplichte lectuur moeten zijn. Met weinig woorden laat deze Belgische schrijver met Marokkaanse roots zien hoe eenzaamheid, rouw en haat echt voelen.https://indeboekenkast.com/2019/12/13/het-moois-dat-we-delen/"
+      },
+      {
+        "id": "115360486",
+        "author_name": "Loriaux",
+        "title": "Sterker dan wie we zijn",
+        "timestamp": "2019-11-06",
+        "rating": 100,
+        "comment": "Twee verwoeste levens proberen - elk voor zich - het verleden een plaats te geven , want dat is wat zij willen , Wat  dit boek typeert  is de kunst en ook de kracht van vergiffenis- schenken / vergiffenis - krijgen , waardoor het mogelijk wordt dat mensen verder kunnen met hun leven . Dit boek heeft me nog meer aan het denken gezet , in de tijdsgeest van vandaag . Ik hoop dat het zijn weg mag vinden naar het brede publiek . Ish Ait Hammou , u hebt ons een spiegel voorgehouden . Met respect ."
+      },
+      {
+        "id": "115615034",
+        "author_name": "MG1979",
+        "title": "H boek van 2019!",
+        "timestamp": "2019-11-12",
+        "rating": 100,
+        "comment": "Je hebt zo van die boeken waar je aan begint, niet meer kunt stoppen en waar je als je de laatste pagina omslaat onmiddellijk opnieuw wil in beginnen. Voor mij is dit er zo eentje. Een prachtig boek over geloof, hoop, liefde, haat en vergeving dat blijft nazinderen. Ik verklap hier niet waar het over gaat, want dit is een boek dat je eigenlijk moet lezen zonder een korte inhoud gelezen te hebben. Op die manier kan je onbevooroordeeld starten en het verhaal volledig in je opnemen. Ish is een meesterverhalenverteller die je in korte, krachtige maar prachtige zinnen helemaal laat opgaan in een verhaal. Een absolute aanrader en voor mij hoogstwaarschijnlijk h boek van 2019!"
+      }
+    ]
+  },
+  {
+    "id": "9200000108570624",
+    "title": "De jongens van Nickel",
+    "author": "Colson Whitehead",
+    "desc": "\"De jongens van Nickel' van Colson Whitehead is de hartverscheurende opvolger van de bekroonde internationale bestseller \"De ondergrondse spoorweg'. In deze nieuwe roman ontleedt hij een nog recenter duister hoofdstuk uit de Amerikaanse geschiedenis  het tijdperk van de Jim Crow-rassenwetten in het Zuiden van Amerika  aan de hand van het verhaal van twee tieners op een helse tuchtschool in Florida.Het zijn de beginjaren van de burgerrechtenbeweging, en de zestienjarige Elwood Curtis gaat zijn toekomst vol vertrouwen tegemoet. Totdat hij vanwege een vergissing op de Nickel Academy belandt. Met name de zwarte jongens worden aan het sadisme van hun witte bewakers uitgeleverd. Misbruik, marteling en corruptie zijn aan de orde van de dag; voor het minste vergrijp worden de jongens \"naar achter' gebracht  vanwaar ze nooit meer terugkomen. In deze gruwelkamer is er voor Elwood  houvast: zijn vriend Turner, die geen enkele ambitie koestert, behalve ontsnappen uit Nickel.",
+    "price": 22.99,
+    "average_rating": 4.6,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/4/2/6/0/9200000108570624.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/4/2/6/0/9200000108570624.jpg",
+    "reviews": [
+      {
+        "id": "111432585",
+        "author_name": "KaMeMaKo",
+        "title": "elke zweepslag gonst nog na...",
+        "timestamp": "2019-05-31",
+        "rating": 100,
+        "comment": "net als bij de Ondergrondse Spoorweg is de Jongens van Nickel een bij de keel grijpende roman, gebaseerd op afschuwelijke feiten in het tijdperk van de Jim Crow-rassenwetten, een inktzwarte bladzijde uit de geschiedenis van de Verenigde Staten... Elwood Curtis, een arme, maar pientere donkere jongeman die aanvankelijk nog geloof hecht aan de woorden van de dominee Martin Luther King als die predikt dat zwarte jongens en meisjes evenveel waard zijn als anderen, ondanks de strikte rassenscheiding in het diepe Zuiden...Elwood idealistische geloof in de beginjaren van de burgerrechtenbeweging wordt op de proef gesteld wanneer hij onterecht veroordeeld wordt tot tuchtschool Nickel Academy in de gesegregeerde Florida van de jaren 60 ...racistische opzichters, corruptie, gruwelijke mishandelingen, misbruik en zelfs moord met name op zwarte jongens is meer regel dan uitzondering...door Colson Whitehead vertelkunst is iedere zweepslag, gruwelheid en vernedering voelbaar, verwoord als volgt  ... hun was zelfs het simpele genoegen ontzegd om doorsnee te zijn ... aan banden gelegd en gehandicapt voor de race  was begonnen, en nooit de kans kregen om gewoon normaal te zijn ...  laatste in dikke contrast met de stem van MLK op de achtergrond en de onmacht voelend van de jongens ... wees ervan verzekerd dat wij jullie zullen uitputten met ons vermogen om te lijden, en dat de dag komt dat wij onze vrijheid zullen veroveren ...  historische roman, moet iedereen gelezen hebben!"
+      },
+      {
+        "id": "111594091",
+        "author_name": "ranata",
+        "title": "heftige geschiedenisles",
+        "timestamp": "2019-06-06",
+        "rating": 100,
+        "comment": "Elwood die door zijn lieve oma Harriet wordt opgevoed, heeft het eigenlijk best goed voor elkaar, hij haalt mooie cijfers op school, hij staat op het punt om naar het plaatselijke college, iets wat tijdens de segregatie geheel gescheiden was in Amerika en dan natuurlijk ook in zijn stad Tallahassee in Florida.De burgerrechtenbeweging komt net op gang, Dr.Martin Luther King komt op, iets wat zorgt dat Elwood ook erg in de ban is van Dr Martin Luther King.Vol goede moed gaat hij op pad naar zijn nieuwe school, als hij door een onschuldig misverstand op de Nickel Academy terecht komt, een tuchtschool, de hel op aarde.Er is een blank gedeelte en een gedeelte voor de zwarte jongens.De jongens daar zijn overgeleverd aan de wreedheden van de blanke bewakers, die een heus schrikbewind voeren, Elwood probeert vriendschappen te sluiten met andere jongens zoals Turner.Ze proberen de wreedheden te overlevenDe jongens van Nickel is een verhaal wat gebaseerd is waargebeurde gebeurtenissen in de Amerikaanse geschiedenis in de jaren 60.Een geschiedenis die verteld moet worden, zodat we misschien meer begrip krijgen voor elkaar.Tijdens het lezen gebeuren er zoveel wreedheden, dat ik mij echt heb afgevraagd of het waargebeurd was, daarom heb ik al snel het dankwoord van Colson Whitehead gelezen, waardoor de rest van het boek er helemaal hard in kwam.Het is echt ongelofelijk en bizar dat dit soort dingen gewoon gebeurden.Maar ook dat er op een plek waar je je toch veilig moet voelen, je zoveel misstanden tegenkomt, mishandeling, racisme, corruptie en verdwijningen en moorden.Zeker de mishandelingen met de zweep zijn zo opgeschreven dat je je haast kan voorstellen hoe het voelt.Ze komen keihard binnen, mede door de stijl van Colson Whitehead, die op deze manier heel veel meegeeft over deze zwarte bladzijdes in de geschiedenis, het is ge op de geschiedenis van de Dozier School for boys in Marianna wat ook in Florida ligt.Hij geeft een stem aan de slachtoffers.Ik kan niet echt goed uit leggen waarom je dit nu echt moet lezen, maar je moet het toch gewoon doen, het is een verhaal wat op mij erg veel indruk heeft gemaakt, het was een indrukwekkend, aangrijpend verhaal, maar ondanks de heftigheid, heeft Colson er wel een mooi verhaal van gemaakt, een verhaal wat je nog verrast ook. Maar belangrijker een verhaal waar je hopelijk van leert, wat je stil laat staan."
+      },
+      {
+        "id": "111338555",
+        "author_name": "Beatrixm",
+        "title": "Nog beter dan 'De ondergrondse spoorweg!'",
+        "timestamp": "2019-05-28",
+        "rating": 100,
+        "comment": "De 16-jarige Elwood Curtis is een gedreven en ambitieuze jongen die veel kracht en inspiratie haalt uit de toespraken van zijn idool, Martin Luther King. Het zijn de beginjaren van de burgerrechtenbeweging en Elwood ziet de veranderingen vol vertrouwen tegemoet. Zijn leven wordt echter ruw verstoord wanneer hij door stom toeval op het verkeerde moment op de verkeerde plaats blijkt te zijn: wrong race, wrong place.De setting is die van begin jaren '60 en de gebeurtenissen van Nickel zijn gebaseerd op de gebeurtenissen die destijds plaatsvonden op tuchtschool 'Florida Dozier School for Boys'. Nickel is de hel op aarde, en vooral de zwarte jongens hebben het zwaar te verduren. Zware lijfstraffen, misbruik, corruptie, en eenzame opsluiting worden bij de minste overtreding toegepast, zogenaamd om de jongens in het gareel te kunnen houden. Het 'Witte Huis' wordt het meest gevreesd, en van de jongens die 'naar achteren' werden gebracht, is er nooit iemand teruggekeerd. Kort na zijn aankomst in Nickel sluit Elwood vriendschap met de onbevreesde Turner die vastbesloten is om uit Nickel te ontsnappen...De schrijfstijl maakt het boek. Als lezer weet Whitehead je regelmatig te frustreren, te verbazen, en op het verkeerde been te zetten. Gedetailleerde scenes worden afgewisseld met warrige flashbacks en flashforwards die je als lezer even doen fronsen, om vervolgens weer geraakt te worden door een volgende twist en de daarbij horende emoties. De glansrijke ontknoping maakt dat je na de laatste pagina direct weer opnieuw wilt beginnen met lezen om de puzzelstukjes nu eindelijk op hun plek te kunnen leggen.'De jongens van Nickel' is een wreed verhaal over ruw verstoorde jongensdromen, overlevingsdrang, wanhoop, vergiffenis en de wonderlijke kracht van vriendschap. Loved it!"
+      }
+    ]
+  },
+  {
+    "id": "9200000107493567",
+    "title": "F.C. De Kampioenen - 104 Vrouwen aan de macht",
     "author": "Hec Leemans",
-    "desc": "Carmen is niet gelukkig met het schamele pensioentje van Xavier. En poetsen bij Boma brengt ook geen fortuinen op. Xavier is de klaagzang van Carmen beu en besluit in zijn wanhoop zijn kans te wagen op de lotto. En hij heeft geluk: hij wint een aanzienlijke som. Xavier besluit wijselijk zijn lotto-winst geheim te houden. Maar Carmen komt er al snel achter en laat het geld rollen. Nieuwe handtas, nieuwe schoenen, nieuwe kleedjes. De Kampioenen hebben natuurlijk al snel door dat dit alles niet betaald kan worden van Xaviers pensioentje. Iedereen heeft geld geroken...",
+    "desc": "Meer boeken van Hec Leemans. ",
     "price": 6.5,
     "average_rating": 5.0,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/6/3/3/9200000040653366.jpg",
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/7/6/5/3/9200000107493567.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/7/6/5/3/9200000107493567.jpg",
     "reviews": [
       {
-        "id": "66995036",
-        "author_name": "LegoW",
-        "title": "Xavier heeft een miljoen gewonnen!",
-        "timestamp": "2016-05-31",
+        "id": "113748468",
+        "author_name": "Noa0710",
+        "title": "Top strip",
+        "timestamp": "2019-09-03",
         "rating": 100,
-        "comment": "Xavier heeft een miljoen gewonnen in de lotto en Carmen mag 't niet weten, oftewel, hoe kan xavier van zijn centen genieten, zonder dat Carmen alles binnen een paar uur er doorheen jaagt? Nou, dat is dus best een probleem, als niemand het mag weten en er langzaam toch iedereen achter komt. Ten einde raad stalt Xavier het geld maar bij Boma, maar of dat zo'n goed idee is? De valse neef van Boma komt in vermomming bij hem langs en Boma kan voor veel geld een paar duistere spelers uit Afrika kopen om de Kampioenen op een hoger plan te tillen, echter de spelers blijken alleen maar te kunnen presteren als ze bol staan van de doping. Omdat Boma het geld niet heeft voor de spelers, kan Xavier mede eigenaar middels aandelen worden van FC de Kampioenen. Om het toch nog spannend te maken, komt Carmen er natuurlijk op een gegeven moment achter dat Xavier de lotto heeft gewonnen.Leuk boek en ontspannende lectuur voor 3 kwartier a een uurtje. Kopen dus."
+        "comment": "Een strip van de kampioenen zit altijd goed in mekaar het inkijk exemplaar zag er veelbelovend uit!"
       },
       {
-        "id": "82888664",
-        "author_name": "Wendy0111",
-        "title": "Toffe boeken",
-        "timestamp": "2017-03-16",
+        "id": "114002351",
+        "author_name": "Pugmom",
+        "title": "Vlot leesvoer",
+        "timestamp": "2019-09-12",
         "rating": 100,
-        "comment": "Deze boeken zijn fantastisch"
-      },
-      {
-        "id": "92264591",
-        "author_name": "sannick",
-        "title": "kampioenen",
-        "timestamp": "2017-08-16",
-        "rating": 100,
-        "comment": "heb het kadoo gedaan en degene houdt van deze strips"
+        "comment": "Vlot om te lezen, collectie is terug voltallig!"
       }
     ]
   },
   {
-    "id": "9200000057618838",
-    "title": "Ssst! De tijger slaapt",
-    "author": "Britta Teckentrup",
-    "desc": "Ssst! De tijger slaapt' is een verrassend en interactief prentenboek van Britta Teckentrup. Bijzonder is dat de ballonnen in de tekeningen glanzend zijn, zodat ze net op echte ballonnen lijken.De tijger slaapt...Ssst! De tijger slaapt en we willen haar niet wakker maken. Er is alleen een probleem: alle dieren moeten erlangs en ze ligt vreselijk in de weg. Hoe gaan ze dat oplossen? Gelukkig heeft de slimme kikker een idee: alle dieren zweven een voor een met een ballon over de tijger heen.De lezer moet helpenMaar de dieren hebben wel hulp nodig. De lezer wordt dan ook aangemoedigd de dieren veilig over de tijger heen te krijgen door te blazen, te aaien, te wiegen en zelfs een slaapliedje te zingen. Zal het alle dieren lukken veilig aan de overkant te komen? En zeg, waar zijn al die ballonnen eigenlijk voor?  ",
-    "price": 14.99,
-    "average_rating": 4.8,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/3/8/8/9200000057618838.jpg",
-    "reviews": [
-      {
-        "id": "78273558",
-        "author_name": "sn4r13",
-        "title": "leuk boek",
-        "timestamp": "2017-01-10",
-        "rating": 80,
-        "comment": "Leuk verhaal met mooie illustraties, net als het eerder gelijkaardige boek 'In bad'"
-      },
-      {
-        "id": "113556668",
-        "author_name": "pink6",
-        "title": "Interactief voorlezen",
-        "timestamp": "2019-08-27",
-        "rating": 100,
-        "comment": "Een geweldig boek voor jonge peuters. Als peuterleidster lees ik dit boek vaak voor. De prenten zijn duidelijk. Er zit veel herhaling in. Er zit spanning in voor het kind en loopt op een grappige manier af. Samen met de kinderen (of kind) zorg je ervoor dat de tijger blijft slapen. Zeer interactief. Zoek de app op om het verhaal nog leuker te maken. Op de app staat een geweldig lied en ook hier is interactie d manier om de tijger te laten slapen."
-      },
-      {
-        "id": "99397055",
-        "author_name": "SelmaErica",
-        "title": "Prachtig prentenboek",
-        "timestamp": "2018-01-17",
-        "rating": 100,
-        "comment": "Een leuk inter actief prentenboek dat je direct mee neemt in het verhaal met een verrassende plot. Terecht gekozen tot het prentenboek van  het jaar 2018"
-      }
-    ]
-  },
-  {
-    "id": "9200000098563018",
-    "title": "Oefenboek met stickers - Eerste telspelletjes 5-6 jaar 3de kleuterklas groep 2",
-    "author": "ZNU",
-    "desc": "Leren! Dit oefenboek daagt je kind uit om een heleboel nieuwe dingen te leren en te ontdekken: leren tellen, het getalbeeld herkennen, begrippen als 'grootste' en 'kleinste' juist benoemen en nog zo veel meer. Kortom: leuke oefeningen om de eerste stappen naar rekenen te zetten.Spelen!Dankzij de speelse oefeningen en leuke tekeningen leert je kind spelenderwijs tellen. Wie zegt dat leren saai moet zijn?Plakken! Je kind mag elke oefening versieren met stickers. Zo maakt het van dit boek een vrolijk en kleurrijk oefenboek!Oefenpret verzekerd!",
-    "price": 7.95,
+    "id": "9200000133244935",
+    "title": "Zo",
+    "author": "David Quammen",
+    "desc": "In Zo neemt David Quammen je mee op een adembenemende speurtocht naar ziekten waarbij sprake is van zo, oftewel soortoverschrijdende overdracht. Hij laat overtuigend zien dat het niet de eerste keer is dat er gevaar dreigt.De wereld houdt zijn adem in. Het nieuwe coronavirus (sars-CoV-2), dat de ziekte Covid-19 veroorzaakt, heeft zich in korte tijd over alle continenten verspreid. Een wereldwijde pandemie is een feit. Maar dit is niet de eerste keer dat er gevaar dreigt. De epidemie van sars en de Mexicaanse griep konden nog net in de kiem gesmoord worden. Ziekten als vogelgriep, ebola, hiv, en in ons eigen land q-koorts, hebben  ding gemeen: ze zijn afkomstig van in het wild levende dieren en worden op mensen overgebracht via een proces dat zo of spillover wordt genoemd: \"soortoverschrijdende overdracht' (in het geval van het huidige coronavirus waarschijnlijk via vleermuizen). Maar bij veel ziekten blijft de bron onvindbaar  en dus onbeheersbaar. In Zo neemt David Quammen de lezer mee op een adembenemen-de speurtocht naar de verwekkers van deze ziekten. Hij doet verslag van avontuurlijke onderzoeken in het veld  vleermuizen vangen in China, gorilla's op de voet volgen in Congo  met de voornaamste deskundigen op het gebied van infectieziekten. Dit boek is onmisbaar voor wie meer wil snappen over de wetenschappelijke en ecologische achtergronden van de huidige coronacrisis.",
+    "price": 20.0,
     "average_rating": 5.0,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/1/0/3/9200000098563018.jpg",
+    "image_thumbnail": "https://media.s-bol.com/D9mQG6lN8yzx/138x210.jpg",
+    "image_src": "https://media.s-bol.com/D9mQG6lN8yzx/550x833.jpg",
     "reviews": [
       {
-        "id": "114819283",
-        "author_name": "wony",
-        "title": "Oefenen is goed",
-        "timestamp": "2019-10-17",
+        "id": "119599905",
+        "author_name": "FrankvdZ",
+        "title": "Bespaartip voor pageturner",
+        "timestamp": "2020-04-12",
         "rating": 100,
-        "comment": "Mijn kind geniet er van en oefent  nu heel veel er in"
+        "comment": "E-lezers kunnen zich wat geld besparen door de goedkopere eerdere versie van dit boek \"Van dier naar mens\" te downloaden. Men mist dan het nawoord (6 pagina's) over de huidige pandemie, maar dat lijkt me niet veel toe te voegen: in een recent interview werd de auteur gevraagd of hij een nieuwe editie overwoog, waarop hij antwoordde \"dan voeg ik drie woorden toe: I told you\".Maar een buil zal men zich sowieso niet vallen, want dit is in alle opzichten een enorm goed boek: heel relevant, heel informatief en heel goed geschreven! Een betere gids is nauwelijks denkbaar. "
+      },
+      {
+        "id": "119597973",
+        "author_name": "HuubBuijssen",
+        "title": "Echt heel interessant",
+        "timestamp": "2020-04-12",
+        "rating": 100,
+        "comment": "Begin februari 2020 kocht ik de ramsj-editie van dit boek uit 2012 dat toen nog ''Van mens op dier'' heette. Ik kocht het omdat ik in die tijd bij toeval in mijn archief van ''aan te schaffen boeken'' grasduinde en daarin een zeer lovende recensie tegenkwam van het boek,  indertijd geschreven door Ellen de Visser van De Volkskrant. De kop van de recensie luidde ''Zo'', dus de titel waaronder het boek - heel terecht - nu opnieuw wordt uitgegeven. Ik was bij lezing meteen gegrepen en ...gealarmeerd.  Het RIVM en de toenmalige minister van gezondheid Bruins spraken toen nog de geruststellende woorden dat de epidemie die in Wuhan begonnen was, niet onze kant op zou komen. We weten nu beter.  Het boek, geschreven in 2012, had een vooruitziende blik.  De Engelse ondertitel van het boek luidde: ''Animal infections and the next pandemic''. En om te bewijzen hoe goed de schrijver in de toekomst kon kijken, hier twee citaten uit het boek: ''Zal de volgende pandemie veroorzaakt worden door een virus? Zal de volgende pandemie afkomstig zijn van een marktkraam in het zuiden van China?\" (pag. 41) en (waar David Quammen een vooraanstaande Amerikaanse viroloog aan het woord laat): ''We zouden eigenlijk een overzichtsartikel over vleermuizen en hun virussen moeten schrijven'' zei hij. ''Dit vleermuiscoronavirus is echt heel interessant'''(pag. 328). Het laatste geldt zeker ook voor dit boek: echt heel interessant"
+      },
+      {
+        "id": "119430213",
+        "author_name": "mevrouwVerhaar",
+        "title": "Inzichtgevend",
+        "timestamp": "2020-04-06",
+        "rating": 100,
+        "comment": "'Zo' is zo'n boek waarvan je na lezing denkt 'waarom heb ik dit boek niet veel eerder gelezen?' Nu begrijp ik eindelijk wat de relatie is tussen 'natte markten' in Zuid-China, intensief reizen en het uitbreken van een pandemie. David Quammen beschrijft in heldere, niet mis te verstane taal hoe infectieziekten als sars, covid, q-koorts, ebola en zelfs de ziekte van Lyme ontstaan en ook waar de oorzaken liggen. Daarbij maakt hij op een haast filmische manier inzichtelijk dat er een verband bestaat tussen onder meer woudkap voor het aanleggen van soya of palmolieplantages, jagen op en massaal binnendringen van leefgebieden van wilde dieren (bushmeat), en uitbraken van ernstige infectieziekten. Voor deskundigen op het gebied van deze infectieziekten was het geen vraag of, maar vooral wanneer The Next Big One zou plaatshebben. Hoewel de boodschap niet een optimistische is, dient Quammen hem op met onderkoelde humor en aan de hand van spannende scenes. Een film als Contagion is er saai bij. Quammen schreef dit boek al in 2012, maar als je het leest, had het net zo goed de afgelopen maand kunnen zijn geweest. Ik kan dit boek aan iedereen aanraden die meer in de achtergronden wil duiken. "
       }
     ]
   },
   {
-    "id": "9200000005537478",
-    "title": "Lezen is Leuk 1 - Ik ga lezen",
-    "author": "Anne Blokker",
-    "desc": "Onderdeel van de serie Lezen is leuk. Lezen is leuk en leren lezen is eigenlijk nog leuker.De teksten en tekeningen in deze boeken helpen kinderen een nieuwe wereld te ontdekken. De serie beslaat het eerste leesjaar van kinderen. Hij sluit aan bij het moderne leesonderwijs en is getest op verschillende basisscholen. 1. ik ga lezen eenlettergrepige woorden met ondersteuning van illustraties - AVI-start 2. ik lees al eenlettergrepige woorden verwerkt in betekenisvolle zinnen - AVI start 3. kijk eens, ik lees! eenlettergrepige woorden verwerkt in een kort verhaal - AVI start 4. ik lees graag korte, eenvoudige verhalen, ondersteund door illustraties - AVI M3 5. wat lees jij? korte verhalen met meer moeilijke woorden - AVI M3 6. ik wil meer lezen! ook verhalen met meerdere pagina's - AVI M3 7. een stapje verder meer tweelettergrepige woorden - AVI E3 8. ik lees al goed de verhalen worden langer en moeilijker- AVI E3",
+    "id": "1001004011840639",
+    "title": "De pest",
+    "author": "Albert Camus",
+    "desc": "In de romans van Nobelprijswinnaar Albert Camus wordt het absurde van de twintigste-eeuwse samenleving afgezet tegen een persoonlijke moraal van vriendschap en menselijkheid. Een of meer personages worden steevast door de loop van gebeurtenissen, nooit uit eigen vrije wil, schuldig aan een misdaad.     De kuststad Oran is in de greep van de pest. De slachtoffers sterven een snelle en vreselijke dood, en als gevolg van de quarantaine worden de andere inwoners geplaagd door gevoelens van angst en claustrofobie. Elke persoon reageert verschillend op de dodelijke ziekte: sommigen leggen zich neer bij hun lot, anderen zoeken schuld en wraak. En een paar, onder wie de antiheld dokter Rieux, proberen kost wat kost de terreur te weerstaan.      De pest is een meeslepende vertelling over moed en vastberadenheid en de broosheid van het menselijk bestaan.",
     "price": 6.99,
-    "average_rating": 4.7,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/7/4/7/9200000005537478.jpg",
+    "average_rating": 4.6,
+    "image_thumbnail": "https://media.s-bol.com/G5kvGrWmyOQ3/132x210.jpg",
+    "image_src": "https://media.s-bol.com/G5kvGrWmyOQ3/529x840.jpg",
     "reviews": [
       {
-        "id": "30988132",
-        "author_name": "Marielle1975",
-        "title": "Perfect eerste echte leesboekje.",
-        "timestamp": "2013-10-10",
+        "id": "118558015",
+        "author_name": "jacqy51",
+        "title": "Corona virus ?NEE pest.",
+        "timestamp": "2020-02-25",
         "rating": 100,
-        "comment": "Mijn zoontje van 5 kende ongeveer 15 losse letters, maar sinds hij dit boekje heeft, gaat hij als een speer. Doordat er maar 4 of 5 woorden op een blz. staan, gaat hij lekker vlot door het boekje heen en dat werkt motiverend. Eerst heeft hij steun aan de plaatjes en daarna leest hij onderaan de blz. dezelfde woorden echt. Eindelijk een boekje dat alleen klankzuivere korte en lange klanken gebruikt!"
+        "comment": "Dit goed geschreven verhaal gaat over een stad waar de pest heerst. Als gevolg hiervan wordt stad afgesloten.Het gaat over een aantal mensen die in deze stad wonen en hoe elk hier op zijn/haar manier mee omgaat.Gezien de situatie rondom het Corona virus een ouder boek dat nu weer actueel is.Ik kan het aanraden!"
       },
       {
-        "id": "100201386",
-        "author_name": "Honor7gebruiker",
-        "title": "Zeer goed",
-        "timestamp": "2018-02-13",
-        "rating": 100,
-        "comment": "Positief aan dit artikel vind ik: goede kwaliteit, handig boek waarmee makkelijk te leren isWat me tegenviel: kwetsbaar"
+        "id": "119438159",
+        "author_name": "Kruk",
+        "title": "Mooi quarantaine boek",
+        "timestamp": "2020-04-07",
+        "rating": 80,
+        "comment": "Goed beeld hoe mensen reageren in quarantaine tijdens een epidemie: dan maakt de tijd waarin het zich afspeelt of wat voor epidemie het is, niet uit."
       },
       {
-        "id": "109626149",
-        "author_name": "Mirriamm",
-        "title": "Korte makkelijke woordjes voor de beginnende lezer",
-        "timestamp": "2019-03-19",
+        "id": "4880692",
+        "author_name": "Anonymous",
+        "title": " van de beste boeken ooit.",
+        "timestamp": "2006-03-13",
         "rating": 100,
-        "comment": "Leuk boekje met op elke pagina 4 of 5 korte woordjes.bosvosboomjetjufHeel goed te lezen voor kindje eind groep 2.Leuk en leerzaam. Er staan ook plaatsje bij. Zo is het leuk lezen voor de kinderen."
+        "comment": "Waar menig filosoof weinig literair talent hefet, is Camus een virtuoos romancier. De Pest is een weergaloos verslag, geschreven met dansende pen - de woorden tuimelen over je heen, maar je hebt nooit het idee dat je 'leest'; je zit voortdurend in het verhaal. Dit doet zeker niet onder voor 'de stad der blinden' van saramago!"
       }
     ]
   },
   {
-    "id": "9200000095737269",
-    "title": "Intimiteit",
-    "author": "Paul Verhaeghe",
-    "desc": "Een intieme liefdesverhouding maakt een mens gelukkig, maar waarom is het zo moeilijk om die te vinden, laat staan in stand te houden? Veelgehoorde verklaringen wijzen in de richting van individualisering, misbruik, mondige vrouwen en besmuikte mannen. In dit boek biedt Paul Verhaeghe een andere kijk: de belangrijkste intieme relatie is die met ons eigen lichaam. Zonder een goede afstemming op je eigen lijf is een intieme relatie met iemand anders bijna onmogelijk.        Aan de hand van vele voorbeelden uit de praktijk onderzoekt Verhaeghe actuele kwesties en vragen rondom intimiteit: hoe dachten en denken we over de kloof tussen lichaam en geest? Is die splitsing niet achterhaald? Hoe zien we ons eigen lichaam nu het internet de plaats van de kerk ingenomen heeft? Welke rol speelt opvoeding in de verhouding tot je eigen lichaam? Wat is de invloed van traumatische ervaringen zoals geweld en seksueel misbruik? Zijn we  in staat om samen te vallen met onszelf? En: hoe kunnen we een duurzame intieme relatie opbouwen met iemand anders?     Meer boeken van Paul Verhaeher.   ",
-    "price": 23.99,
-    "average_rating": 4.5,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/9/6/2/7/9200000095737269.jpg",
+    "id": "9200000113146335",
+    "title": "Wereld Bakboek",
+    "author": "Stefan Elias",
+    "desc": "DE NIEUWE BLOCH-BAKBIJBEL,MET HET BESTE GEBAKVAN GENT TOT TOKIODe legendarische Gentse bakkerij Bloch mag dan enkelejaren geleden haar deuren hebben gesloten, het culinaireerfgoed van Jacques Bloch wordt nog steeds in ere gehoudendoor de Belgische meesterbakker Stefan Elias, die jarenlangzijn rechterhand was.Met zijn bestseller Belgisch Bakboek bewees Stefan Elias aldat hij zijn smakelijke recepten op een heldere en eenvoudigemanier kan uitleggen. In dit boek maakt hij dezelfdeoefening op wereldschaal. Met evenveel passie duikt hijin de geschiedenis van de wereldkeuken en zoekt hij naarde beste bakrecepten, allemaal met hun eigen tradities enwetenswaardigheden.Klassiekers als de oerdegelijke oude Hollandse appeltaart, deFranse tarte tatin, lange suissen en Gentse bolussen passserende revue, maar ook swingende cinnamon rolls New Yorkstyle, Russische piroshki, hartige manakish uit de Levant engezonde Japanse cheesecake. Stap voor stap en met handigetips legt Stefan Elias uit hoe je zelf aan de slag kan gaan.Deze verzameling van meer dan honderd zoete en hartigerecepten, met de nadruk op viennoiserie, brioches en taarten,is een must-have voor iedereen die houdt van bakken.",
+    "price": 59.5,
+    "average_rating": 4.8,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/5/3/3/6/9200000113146335.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/5/3/3/6/9200000113146335.jpg",
     "reviews": [
       {
-        "id": "110815934",
-        "author_name": "Thomas5664",
-        "title": "Legendarisch",
-        "timestamp": "2019-05-07",
-        "rating": 20,
-        "comment": "Prachtig boek waar de essentie van psychodynamisch en psychoanalytisch werken in beschreven staat. Legendarische onderzoeken, citaten en referenties. Prachtig statement over hoe de mens in elkaar steekt. Een boek om grondig te bestuderen als basis voor iedereen die met mensen werkt. Het is goed leesbaar en het is goed ingedeeld. Het was een feest om te lezen en te herlezen. Helaas had ik te weinig sterren aangegeven. Maar dit was het beste boek dat ik recentelijk heb gelezen uit de vakliteratuur. Hopelijk dat het foutje mijnerzijds het boek nog meer in de belangstelling brengt."
+        "id": "114581427",
+        "author_name": "fleurtje60",
+        "title": "Echt een wereld bakboek",
+        "timestamp": "2019-10-08",
+        "rating": 100,
+        "comment": "Goede recepten prachtige foto's"
       },
       {
-        "id": "106990411",
-        "author_name": "Humuluslupulus",
-        "title": "Anno 2018",
-        "timestamp": "2018-12-08",
+        "id": "114928066",
+        "author_name": "Careri",
+        "title": "super boek",
+        "timestamp": "2019-10-22",
         "rating": 100,
-        "comment": "Inhoudelijk vind ik dit boek op zijn minst een evenaring van zijn bestsellers (identiteit,...). De materie is voor mij ook zeer herkenbaar en valt zeker niet in herhaling met zijn vorige werken. Naast de glasheldere analyse worden er ook oplossingen geboden. De titel intimiteit dekt een grote lading waardoor de lezer een holistische benadering voorgeschoteld krijgt."
+        "comment": "een super mooi boek echt een aanrader. hele bijzondere baksels"
       },
       {
-        "id": "108989469",
-        "author_name": "Adam2Smith",
-        "title": "Een uitstekend boek een aanrader voor ge",
-        "timestamp": "2019-02-19",
+        "id": "114962594",
+        "author_name": "Anniebieke",
+        "title": "Heerlijke recepten",
+        "timestamp": "2019-10-22",
         "rating": 100,
-        "comment": "Dit is volgens mij het beste boek van Paul Verhaeghe tot nu toe. De andere boeken van hem heb ik bijna allemaal gelezen en waren uitstekend maar dit boek steekt er echt boven uit. De rode lijn in het boek is een beetje dat de geest en het lichaam niet afzonderlijk bekeken moet worden maar een drie eenheid vormt met de omgeving en dat deze drie onderdelen een wisselwerking op elkaar hebben. Waarbij de jachtige maatschappij van tegenwoordig zeker ziekmakend kan zijn"
+        "comment": "Prachtig boek met duidelijke recepten en mooie foto's"
+      }
+    ]
+  },
+  {
+    "id": "9200000101607144",
+    "title": "Normale mensen",
+    "author": "Sally Rooney",
+    "desc": "\"Normale mensen' van Sally Rooney is de opvolger van haar veelgeprezen debuutroman \"Gesprekken met vrienden'. In \"Normale mensen' vertelt Sally Rooney de liefdesgeschiedenis van Marianne en Connell. Beiden groeien op in hetzelfde stadje in landelijk Ierland, waar hun verschillende werelden nauwelijks overlappen. Ze ontmoeten elkaar alleen wanneer de moeder van Connell het huis van Marianne schoonmaakt. Als ze beiden naar het prestigieuze Trinity College in Dublin gaan, blijkt op die universiteit dat zich door de jaren heen een diepe band heeft gevormd. \"Normale mensen' van Sally Rooney is een verhaal over de diepgaande invloed die geliefden op elkaars leven hebben, en het groeiende besef daarvan naarmate de jaren verstrijken. Een intense roman die je je eigen liefdes laat herbeleven. \"De stem van de nieuwe generatie.' The GuardianTip DWDD Boekenpanel!Sally Rooney (1991) debuteerde in 2017 met \"Gesprekken met vrienden'. De BBC heeft de rechten voor een televisieserie van \"Normale mensen' gekocht, waarvoor Rooney zelf het script schrijft.",
+    "price": 20.99,
+    "average_rating": 4.1,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/4/4/1/7/9200000101607144.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/4/4/1/7/9200000101607144.jpg",
+    "reviews": [
+      {
+        "id": "108956333",
+        "author_name": "melhartman",
+        "title": "bijzonder",
+        "timestamp": "2019-02-18",
+        "rating": 100,
+        "comment": "Dit is een heel sterk en mooi verhaal over vriendschap, diepe trauma en liefde.Ondanks de jonge leeftijd van de auteur is het erg volwassen geschreven en grijpt het je aandacht vanaf de eerste pagina.Ik had veel sympathie voor het sterke, vrouwelijke hoofdpersonage, Marianne. Ze blijft zichzelf trouw ondanks dat ze trauma heeft. Ik was echt verknocht aan haar en tot het einde benieuwd hoe het tussen haar en Connell zou verlopen.Op zich gaat het verhaal over weinig, maar anderzijds ook weer over veel, en bevat het meerdere lagen en meer diepgang dan op het eerste zicht gedacht. Een vlot, meeslepend, psychologische verhaal dat vernieuwend is op de manier hoe de interacties, de gesprekken, tussen de personages verlopen.Een zalig einde, maar zeker niet zeemzoet. Sterke aanrader!"
+      },
+      {
+        "id": "109773132",
+        "author_name": "Lezerenspeler123",
+        "title": "Lievelingsboek van 2019!",
+        "timestamp": "2019-03-23",
+        "rating": 100,
+        "comment": "Wat prachtig! Bij het omslaan van iedere bladzijde baalde ik, want dat betekende dat ik dichter bij het eind kwam. Sally Rooney is zo'n schrijfster waarvan ik alles ga lezen."
+      },
+      {
+        "id": "109324255",
+        "author_name": "1x1x1",
+        "title": "Opgroeien tot jong volwassene",
+        "timestamp": "2019-03-05",
+        "rating": 80,
+        "comment": "Het geeft een goed beeld van het leven van een jongere en tegen welke dilemma's hij zoal tegen aan loopt en welke keuzes hij kan maken."
+      }
+    ]
+  },
+  {
+    "id": "9200000009984508",
+    "title": "Handboek kleding maken",
+    "author": "Alison Smith",
+    "desc": "'Handboek kleding maken' is het complete handboek voor iedereen die zelf kleding wil maken, veranderen of aanpassen. Het boek blinkt uit in de zeer grondige aanpak: niet alleen beschrijft het alle basistechnie, benodigdheden en materialen, maar ook geeft het een visueel overzicht van meer dan dertig stofsoorten en veel praktische patronen om direct aan de slag te gaan met een van de 31 verschillende kledingstukken (rokken, jurken, broeken, bloesjes en jasjes), alle in de damesmaten 34-52. Daarnaast bevat dit zeer praktische en volledige handboek honderden stap-voor-stapinstructies (met foto's en tekeningen): niet alleen hoe je details als coupenaden, paspelzakken, revers of ritssluitingen maakt, maar ook hoe je complete kledingstukken kunt naaien of bestaande favoriete kleren eenvou kunt aanpassen aan je eigen wensen.",
+    "price": 30.99,
+    "average_rating": 4.4,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/8/0/5/4/9200000009984508.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/0/5/4/9200000009984508.jpg",
+    "reviews": [
+      {
+        "id": "56896179",
+        "author_name": "Dylon",
+        "title": "Echte aanrader voor beginnende naaier",
+        "timestamp": "2015-11-05",
+        "rating": 80,
+        "comment": "Ik kan dit boek aan iedereen aanraden die met kleding naaien wil beginnen. Voor mij begon het met dit boek: met de patronen die erbij horen en de duidelijke beschrijvingen is het me gelukt stap voor stap een rokje te maken. En daarna een jurk. Het boek is heel leerzaam en uitgebreid. Veel goeie foto's die alles duidelijk uitleggen. Een echte aanrader. Maar het heeft ook minpuntjes. Ten eerste werkte de link naar de patronen niet. Ik moest de uitgever aanschrijven om het juiste webadres te ontvangen. (Misschien is dat euvel in een nieuwe druk inmiddels verholpen?) Ten tweede is het nogal een klus om de patronen te printen en dan al die A4'tjes aan elkaar te plakken. Maar persoonlijk vond ik dat de moeite wel waard. En er is ook de optie om het groot te laten uitprinten - dat heb ik persoonlijk niet gedaan wegens de kosten. Ten derde is het lastig de juiste maat van de patronen te vinden, want in het boek staan de maten in centimeters en op internet in inches. Ook stuitte ik af en toe op vragen tijdens het naaien waarop ik in het boek geen antwoord kon vinden. Dus op den duur heb je toch een leraar nodig voor de fijne kneepjes."
+      },
+      {
+        "id": "40104105",
+        "author_name": "Josine123",
+        "title": "Mooi, overzichtelijk boek",
+        "timestamp": "2014-09-01",
+        "rating": 80,
+        "comment": "Prachtig overzichtelijk boek waarin alles aan bod komt wat je moet weten. De indeling is logisch en duidelijk, de foto's maken het geheel tot een echte aanrader. Bij een eventuele nieuwe druk is het wellicht een idee om ook nog links naar filmmateriaal te vermelden (lay-ar), want bijvoorbeeld bij het inzetten van een blinde rits heb ik even YouTube erbij gezocht."
+      },
+      {
+        "id": "33180421",
+        "author_name": "Dormaels",
+        "title": "Tevreden over mijn aankoop!",
+        "timestamp": "2014-01-07",
+        "rating": 100,
+        "comment": "Zeer goed boek, stap voor stap uitgelegd.Ook voor beginnende naaisters interessant!"
+      }
+    ]
+  },
+  {
+    "id": "9200000128495657",
+    "title": "Het gezicht van het kwaad",
+    "author": "Wim Van De Voorde",
+    "desc": "Dr. Wim Van De Voorde voerde in zijn30-jarige loopbaan als wetsdokter duizenden lijkschouwingen uit, hij onderzocht duizenden plaatsen waar een bloederige misdaad is gebeurd, hij kwam in contact met duizenden daders en slachtoffers, in en buiten de rechtbank. Door dat alles kreeg de dokter een goed beeld van \"het kwaad': het intentionele kwaad van de psychopaat, de terrorist, de verkrachter en de roofmoordenaar, maar ook het soms door razende emotie ingegeven kwaad van de jaloerse echtgenoot of het ongewilde kwaad bij een ongeval.De Senior en primus van de Vlaamse wetsdokters geeft de lezer zo een uniek inzicht in hoe de menselijke geest werkt in haar donkerste gedaante.",
+    "price": 22.99,
+    "average_rating": 4.0,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/7/5/6/5/9200000128495657.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/7/5/6/5/9200000128495657.jpg",
+    "reviews": [
+      {
+        "id": "119297617",
+        "author_name": "hilinnie",
+        "title": "aanrader",
+        "timestamp": "2020-03-31",
+        "rating": 80,
+        "comment": "interessant boek en een must voor een toekomstig forensisch arts"
       }
     ]
   },
@@ -165,6 +520,7 @@
     "desc": "De filmeditieHazel werd drie jaar geleden opgegeven, maar een nieuw medicijn rekt haar leven voor nog onbekende tijd. Genoeg om een studie op te pakken en vooral niet als zieke behandeld te worden. Augustus, Gus, heeft kanker overleefd - ten koste van een been. Vanaf het moment dat Hazel en Gus elkaar ontmoeten, lijkt er geen ontsnappen aan de zinderende wederzijdse aantrekkingskracht. Maar Hazel wil niet iemands tijdbom zijn.Hazel laat Gus kennismaken met haar lievelingsboek: An Imperial Affliction van Peter Van Houten, een roman over een ziek meisje, die midden in een zin eindigt. Samen besluiten ze op zoek te gaan naar Peter Van Houten om hem te vragen hoe het de personages vergaat nadat het boek is opgehouden. De tocht leidt hen naar Amsterdam, waar de schrijver als een kluizenaar leeft. Hij is in niets wat ze zich van hem hebben voorgesteld. En hun leven neemt een wending die ze zich niet hadden kunnen indenken.Geen enkele samenvatting kan recht doen aan de kracht van deze roman. John Green heeft een meesterwerk geschreven dat door merg en been gaat, dat kracht geeft en vernietigt, dat ieder godsblij maakt dat hij l.",
     "price": 16.99,
     "average_rating": 4.7,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/7/6/4/5/9200000026145467.jpg",
     "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/7/6/4/5/9200000026145467.jpg",
     "reviews": [
       {
@@ -194,21 +550,121 @@
     ]
   },
   {
-    "id": "9200000122967341",
-    "title": "Boerderijbeestjes",
-    "author": "Christel Krukkert",
-    "desc": "We gaan weer haken met Christel! Christel Krukkert heeft voor dit boek een hele collective boerderijbeestjes gehaakt. Koeien, varkens, kippen, schapen, je vindt ze allemaal terug in dit boek. Deze keer heeft ze geen amigurumi gehaakt, maar platte beestjes. Voor de haakfans betekent dat, dat ze niet in het rond heeft gehaakt, maar in heen-en-weertoeren. Het effect is super! Van al die grappige beestjes word je direct blij. Als je eenmaal begonnen bent met een boerderijbeestje, zul je merken dat de verslaving snel toeslaat: je haakt ze uiteindelijk allemaal. Met haakplezier!",
-    "price": 16.5,
-    "average_rating": 5.0,
-    "image_src": "https://media.s-bol.com/JZmZMPP7k71v/550x722.jpg",
+    "id": "9300000000084629",
+    "title": "Acht dagen in mei",
+    "author": "Volker Ullrich",
+    "desc": "Duizend jaar zou het duren, maar in mei 1945 is de laatste week van het Derde Rijk aangebroken. Hitler heeft zelfmoord gepleegd, de oorlog woedt voort. Tussen Hitlers dood en de capitulatie liggen acht krankzinnige dagen. Even lijkt alles tot stilstand te komen, maar toch is alles in een ademloze beweging. Dit boek bevat Volker Ullrichs aangrijpende verslag van de laatste dagen van het naziregime. Een reis naar de ondergang in een wereld vol drama en hoop, angst en geweld. De capitulatie van Berlijn, de massale vernietiging, de zelfmoordepidemie, de laatste dodenmarsen, de bevrijding van de concentratiekampen, de jacht op de nazibonzen.Volker Ullrich, gevierd journalist en Hitlerbiograaf, schildert uit de stroom aan grote en kleine gebeurtenissen een onvergetelijk drama in acht bedrijven.\"Hoogst interessante geschiedschrijving.'  Dresdner Morgenpost\"Een briljante, vlotte evocatie van de turbulente, onwerkelijke laatste acht dagen van het Derde Rijk.'  Helmut Walser Smith, vooraanstaand historicusOver Adolf Hitler, Opkomst & Ondergang:\"Volker Ullrichs biografie van Hitler is  van de beste ooit.' *****  Het Parool\"Voortreffelijk.' ****  NRC Handelsblad\"Een prachtig boek.'  Trouw",
+    "price": 24.99,
+    "average_rating": 0,
+    "image_thumbnail": "https://media.s-bol.com/Jq5QO0E59vRv/131x210.jpg",
+    "image_src": "https://media.s-bol.com/Jq5QO0E59vRv/527x840.jpg",
+    "reviews": []
+  },
+  {
+    "id": "9200000045961295",
+    "title": "Het enige echte ultieme dot-to-dot",
+    "author": "Diverse auteurs",
+    "desc": "'Het enige echte ultieme dot-to-dot puzzelboek' staat vol met duivels moeilijke dot-to-dotpuzzels en zal je daarom uren achtereen entertainen en bezighouden. Honderden, nee duizenden, puntjes wachten op jouw verbindingslijntje en zullen uiteindelijk prachtige voorstellingen laten zien van dieren, objecten en sc die ook uitermate geschikt zijn om in te kleuren.",
+    "price": 6.99,
+    "average_rating": 4.6,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/5/9/2/1/9200000045961295.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/5/9/2/1/9200000045961295.jpg",
     "reviews": [
       {
-        "id": "119643375",
-        "author_name": "Jokraal",
-        "title": "Boekje voor de haakliefhebber",
-        "timestamp": "2020-04-14",
+        "id": "60406670",
+        "author_name": "Lindaems",
+        "title": "Te voorspelbaar",
+        "timestamp": "2016-01-22",
+        "rating": 40,
+        "comment": "Het boek ziet er netjes uit. Mooie tekeningen en duidelijke cijfers. De reden waarom ik het boek niet zal aanraden is dat de plaatjes te voorspelbaar zijn. Dat vind ik jammer en echt een 'afknapper'. Het is juist het leuke om te beginnen en niet te weten wat het wordt."
+      },
+      {
+        "id": "65323592",
+        "author_name": "ECSR",
+        "title": "Origineel!",
+        "timestamp": "2016-04-29",
         "rating": 100,
-        "comment": "Wat een leuk boekje gewoon verslavend"
+        "comment": "Heel leuk. Een origineel cadeau voor jezelf of een ander. Hier ben je wat uurtjes zoet mee!"
+      },
+      {
+        "id": "58971324",
+        "author_name": "Anoukvdakker",
+        "title": "erg leuk!",
+        "timestamp": "2015-12-28",
+        "rating": 100,
+        "comment": "Uren lijntjes trek plezier! Erg leuk om te doen wanneer je je verveelt"
+      }
+    ]
+  },
+  {
+    "id": "9200000124927444",
+    "title": "Simone de Beauvoir",
+    "author": "Kate Kirkpatrick",
+    "desc": "\"Simone de Beauvoir. Een leven' is de nieuwe, monumentale biografie geschreven door Kate Kirkpatrick. Diepgravend, verrassend en ontroerend.Filosoof, schrijver en feministisch icoon  Simone de Beauvoir was het allemaal. Biografe Kate Kirkpatrick had voor het eerst toegang tot nooit eerder beschikbare dagboeken en correspondentie. Het resultaat is een echte pageturner: diepgravend, verrassend en ontroerend.Deze baanbrekende biografie werpt een geheel nieuw licht op De Beauvoir, die definitief neergezet wordt als een van de belangrijkste denkers van de twintigste eeuw.\"Toen De Beauvoir haar nu beroemde woorden in De tweede sekse schreef  \"Je komt niet ter wereld als vrouw, je wordt vrouw\"  wist ze niet hoe groot de invloed van dat boek zou zijn op de rest van haar leven of de levens van degenen die na haar kwamen.Er is veel geschreven over de betekenis van die zin, over wat dat betekent: vrouw \"worden\". Dit boek is gewijd aan de vraag hoe De Beauvoir zelf is geworden wie ze werd.' - Kate Kirkpatrick",
+    "price": 34.99,
+    "average_rating": 5.0,
+    "image_thumbnail": "https://media.s-bol.com/qYLMy9E1NQVy/143x210.jpg",
+    "image_src": "https://media.s-bol.com/qYLMy9E1NQVy/550x805.jpg",
+    "reviews": [
+      {
+        "id": "119182275",
+        "author_name": "Thuisdenker",
+        "title": "Geweldige biografie",
+        "timestamp": "2020-03-25",
+        "rating": 100,
+        "comment": "Deze biografie heb ik ademloos uitgelezen. Zit thuis net zoals veel mensen nu en dit was vele malen beter dan welke Netflix-serie ook. Katepatrick schrijft het verhaal van deze boeiende en belangrijke denker heel meeslepend op. Ze had de beschikking over veel nieuwe informatie, dagboeken en correspondentie, waardoor er een geheel ander beeld van De Beauvoir ontstaat dan we kenden. Ze blijkt allesbehalve het aanhangsel van Jean Paul Satrte, maar een zelfstandige en eigenzinnige denker. Met haar werk De tweede sekse drukte ze een belangrijk stempel op het feminisme. Dit boek lijkt me zeker de moeite waard voor iedereen die zich feminist of kritisch denker noemt. Of het nu vrouwen zijn of mannen."
+      },
+      {
+        "id": "119212037",
+        "author_name": "Boekengek57",
+        "title": "Fascinerend werk",
+        "timestamp": "2020-03-26",
+        "rating": 100,
+        "comment": "Een prachtige nieuwe biografie over Simone de Beauvoir! Het geeft een heel mooi inkijk in haar leven en het spreekt ontzettend tot de verbeelding. Ik zou dit aan al mijn vrienden aanraden. Het is mooi om te zien hoe zij door dit boek uit de schaduw van Sartre kan treden. Naast dat het ontzettend mooi is geschreven, is het ook heel erg mooi vormgegeven. Echt een kunstwerk om in je kast te hebben staan."
+      },
+      {
+        "id": "119198225",
+        "author_name": "RoosHaBee",
+        "title": "Een verdiepend en interessant boek",
+        "timestamp": "2020-03-25",
+        "rating": 100,
+        "comment": "Dit boek werpt nieuw licht op de persoon Simone de Beauvoir, een oneindig grootse en interessante denker. De schrijfstijl is prettig waardoor je door wilt blijven lezen. Het is een boek dat ik zeker meerdere keren ga lezen."
+      }
+    ]
+  },
+  {
+    "id": "9200000114043146",
+    "title": "The Witcher - Het Zwaard der Voorzienigheid",
+    "author": "Andrzej Sapkowski",
+    "desc": "Dit is de tweede verzameling verhalen van Andrzej Sapkowski met hekser Geralt in de hoofdrol. D inspiratiebron voor de rol van Henry Cavill uit Netflix-hitserie The Witcher.Het Zwaard der Voorzienigheid is het tweede boek van Andrzej Sapkowski over de avonturen van hekser Geralt. Het volgt direct op de collectie korte verhalen uit De Laatste Wens.Geralt is een hekser, een man wiens magische krachten, versterkt door jarenlange training en een mysterieus elixer, hem tot een briljante vechter en een genadeloze huurmoordenaar hebben gemaakt. Maar Geralt is geen ordinaire moordenaar. Zijn doelwitten zijn vaak afschuwelijke monsters die het land terroriseren en onschuldige mensen aanvallen.Zodoende zwerft Geralt door het land op zoek naar opdrachten. Langzaam maar zeker ontdekt hij echter dat hoewel veel van zijn slachtoffers verachtelijk zijn, een aantal van hen zelf het slachtoffer zijn van kwade bedoelingen of simpele onnozelheid.",
+    "price": 17.5,
+    "average_rating": 4.7,
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/6/4/1/3/9200000114043146.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/4/1/3/9200000114043146.jpg",
+    "reviews": [
+      {
+        "id": "118245478",
+        "author_name": "PGoris",
+        "title": "Goede fantasy read!",
+        "timestamp": "2020-02-11",
+        "rating": 80,
+        "comment": "Na de Netflix-serie gezien te hebben wou ik graag aan de boekenreeks starten.Na 'The last wish' volgt deze tweede bundel kortverhalen.Ze geven je meer inzag in Geralts doen en laten  hij kan verrassend grappig uit de hoek komen met zijn droge humor.De covers met de wapenschilden vind ik ook mooi vorm gegeven!Een aanrader voor alle fantasyliefhebbers! :)"
+      },
+      {
+        "id": "117478574",
+        "author_name": "FredvanSon",
+        "title": "The witcher, aanrader!",
+        "timestamp": "2020-01-14",
+        "rating": 100,
+        "comment": "heerlijk fantasie verhaal met een leuke held erin"
+      },
+      {
+        "id": "117689366",
+        "author_name": "kifra",
+        "title": "Fantastisch",
+        "timestamp": "2020-01-21",
+        "rating": 100,
+        "comment": "Dit is het tweede deel van de Witcher waarin je kunt lezen wat hij eigenlijk doet."
       }
     ]
   },
@@ -219,7 +675,8 @@
     "desc": "Een indrukwekkend levens- en liefdesverhaal voor de lezers van De man die naar Auschwitz wilde en De jongen in de gestreepte pyjama In april 1942 wordt een jonge Slowaakse Jood naar Auschwitz gedeporteerd. Lale Sokolov staat vanaf dan bekend als gevangene 32407. De SS-officieren benoemen hem tot 'T', tatoe. Twee jaar lang is hij degene die van duizenden gevangenen een nummer moet maken. Zoals van Gita, vanaf dan gevangene 34902. Terwijl hij gedwongen wordt haar te brandmerken, kerft zij haar naam voor altijd in zijn hart. Na drie jaar wordt Gita op dodenmars gestuurd en komt Lale in een ander kamp terecht. Beiden weten te ontsnappen en gaan op zoek naar elkaar. Gedurende zeventig jaar zwijgen Lale en Gita over het begin van hun relatie. Pas na Gita's dood durft Lale hun uitzonderlijke overleversverhaal te delen. De tatoe van Auschwitz toont de moed van twee jonge mensen en de kracht van liefde onder de meest extreme omstandigheden. Voor de fans van De man die naar Auschwitz wilde, The Boy in the Striped Pyjamas, Als je het licht niet kunt zien, Schindler's List, Haar naam was Sarah, Sonny Boy, Het familieportret, De tweeling, The Reader en Zwartboek. Over De tatoe van Auschwitz: 'Dit prachtige liefdesverhaal over de tatoe van Auschwitz laat niemand onberoerd.' Libelle 'Het boek laat zien waartoe mensen, gedreven door wilskracht, in staat zijn.' Oorlogsboekenreviews 'Als je dit boek in  woord zou moeten omschrijven, dan zou je indrukwekkend gebruiken.' Boekenbeschrijfster 'Hoe afschuwelijk het ook is met momenten, onderhuids heb je tijdens het lezen dat gevoel van verwachting dat er nog iets goeds uit dit verhaal komt en dat maakt het zo inspirerend om te lezen.' Perfecte Buren",
     "price": 7.99,
     "average_rating": 4.7,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/thumb/FC/4/2/9/5/9200000079705924.jpg",
+    "image_thumbnail": "https://media.s-bol.com/gBY7yvk4D26/136x210.jpg",
+    "image_src": "https://media.s-bol.com/gBY7yvk4D26/546x840.jpg",
     "reviews": [
       {
         "id": "99679658",
@@ -238,523 +695,48 @@
         "comment": "Heather Morris is een Australische scenarioschrijfster die jarenlang bevriend was met Lale Sokolov, die na de oorlog naar Australi emigreerde. Ze was de eerste aan wie Lale zijn levensverhaal toevertrouwde, omdat hij zich schaamde voor zijn rol in het kamp. Morris deed naar aanleiding van zijn verhaal onderzoek in Duitsland en Polen en kwam erachter dat Lale veel meer mensen redde dan alleen zijn Gita. Doordat hij in zijn positie eten mee kon smokkelen, heeft hij tientallen mensen in leven gehouden. Het verhaal van Lale heeft twaalf jaar bestaan als script voordat het als boek werd uitgegeven. De tatoe van Auschwitz speelt zich af tijdens de Tweede Wereldoorlog in het concentratiekamp Auschwitz-Birkenau. Het is het verhaal over een jonge Slowaakse Jood die in 1942 naar Auschwitz wordt gedeporteerd. Lale Sokolov heet vanaf dat moment gevangene 32407. Lale wordt in het kamp bevorderd tot  (Tatoe). Duizenden gevangen moet hij voorzien van een nummer waaronder Gita, gevangene 34902. Vanaf het moment dat Lale de cijfers in Gita arm kerft is hij verkocht. Een vonk vliegt over tussen de twee jonge mensen. In de tijd die volgt ontwikkeld zich een ontluikende liefde, totdat Gita op dodenmars gestuurd wordt en Lale naar een ander kamp verhuist. Beiden weten te ontsnappen en gaan op zoek naar elkaar.De tatoe van Auschwitz is een ontroerende en confronterende roman over het leven in een concentratiekamp en de ontluikende liefde tussen twee gevangenen. Een tijd waarin mensen niet alleen van hun vrijheid werden beroofd, maar ook van hun waardigheid, hun naam, en hun identiteit. Prachtig geschreven en buitengewoon goed verwoord door de auteur. De schrijfstijl is boeiend en meeslepend en maakt dat het verhaal je niet meer loslaat. Gruwelijke gebeurtenissen passeren de revue, gebeurtenissen waarvan je je nauwelijks kunt voorstellen dat die gebeurd zijn. Spanning en emotionele momenten wisselen elkaar af. Het boek raakt je en laat je weer eens beseffen wat voor verschrikkelijke tijd deze mensen meegemaakt moeten hebben. Lale vertelde dit verhaal nadat zijn geliefde vrouw was overleden. Hij heeft altijd de angst bij zich gedragen dat hij en Gita als collaborateurs van de nazi zouden worden gezien. Bij het nawoord van Gary, de zoon van Lale en Gita, moet je wel even slikken. Heel aangrijpend verteld hij over zijn ouders en hoe hij opgroeide in een bijzonder liefdevol gezin. Zijn ouders hadden het gevoel dat ze zelf van hun jeugd beroofd waren en wilden niet dat hij ook maar iets zou moeten missen. zal mijn ouders altijd dankbaar blijven dat ze me deze manier van leven hebben laten zien. tatoe van Auschwitz is een aanrader voor iedereen. Het is een waargebeurd verhaal dat onder je huid kruipt. Heel bijzonder!"
       },
       {
-        "id": "101452963",
-        "author_name": "catharinalotte",
-        "title": "De tatoe van Auschwitz - Heather Morris",
-        "timestamp": "2018-04-08",
+        "id": "99530269",
+        "author_name": "Sdwz",
+        "title": "oorlog en liefde",
+        "timestamp": "2018-01-22",
         "rating": 100,
-        "comment": "Heather Morris schreef met De tatoe van Auschwitz een indrukwekkend op waarheid berust levensverhaal ten tijde van de Tweede Wereldoorlog. De lezer is getuige van de opbloeiende liefde tussen Lale en Gita, twee jonge Joodse gevangenen die proberen te overleven in Auschwitz.Het verhaalIn april 1942 wordt de Slowaakse Jood Lale Sokolov gedeporteerd naar Auschwitz in Birkenau. Al snel wordt zijn talentalent ontdekt en wordt hij door de ss-officieren benoemd tot 'de tatoe'. Twee jaar lang krijgt hij de opdracht om op de onderarm van duizenden mensen nummers te tatoe, zo veranderen ze van mensen naar slechts cijfers op ellenlange lijsten. Een baan waar je naar van wordt, maar het maakt voor Lale zijn leven in het kamp een stukje makkelijker. Hij wordt niet zoals vele anderen zonder reden neergeschoten wanneer hij buiten een ommetje maakt en hij weet het zelfs voor elkaar te krijgen om wat extra eten het kamp in te smokkelen. Lale is een charmante, vrijgevige, zorgzame en intelligente man en heeft  doel voor ogen: Auschwitz overleven. Dit doel wordt extra versterkt wanneer hij de mooie Gita, vanaf dan gevangene 34902, ontmoet tijdens zijn 'werk'. Het is liefde op het eerste gezicht en de twee weten elkaar sterk te houden, ondanks alle angst en gruwelen die ze dagelijks onder ogen moeten zien. Wanneer het einde van de oorlog nabij is en de Russen op het punt staan Auschwitz binnen te vallen, breekt bij de Duitsers paniek uit. Het totale kamp wordt ge; mensen worden neergeschoten of gedeporteerd naar andere kampen. Lale en Gita moeten gedwongen afscheid van elkaar nemen wanneer Gita op dodenmars wordt gestuurd met de andere vrouwen van haar blok. Diezelfde avond wordt Lale gedwongen in een treinwagon te stappen om overgebracht te worden naar een kamp in Wenen. Zullen zij elkaar ooit nog terugzien? OordeelBinnen twee dagen heb ik dit boek uitgelezen; ik kon het namelijk niet meer wegleggen. Wauw. In tijden heb ik niet zo'n prachtig en indrukwekkend verhaal gelezen. Dit is absoluut een verhaal dat je bij zal blijven. Heather Morris heeft op een uitzonderlijke manier het imposante levens- en liefdesverhaal van twee zeer bijzondere mensen weten vast te leggen op papier. Met een vlotte pen weet zij heftige emoties op te roepen bij de lezer, vaak confronterend. Je kunt de onvoorwaardelijke liefde van Lale en Gita voelen. Ook het geloof in een nieuwe toekomst met een betere wereld is dusdanig sterk omschreven dat je met hen de hoop gaat koesteren. Waanzinnige complimenten voor de schrijfster voor de manier waarop ze het verhaal van iemand anders waarheidsgetrouw heeft weten te noteren zonder (en ik quote Lale zelf) 'persoonlijke bagage door het verhaal te laten lopen'. De epiloog, de aanvullende informatie, het nawoord van Gary en het dankwoord van de auteur zorgen ervoor dat de lezer het verhaal n dieper in zijn hart sluit. Een mooie toevoeging en zeker de moeite waard om ook nog even te lezen. Graag sluit ik af met het levensmotto van Lale, een ogenschijnlijk eenvoudige opmerking die mij zo intens raakte: 'Als je 's ochtends wakker wordt, is het een goede dag.' Kortom, een ontzettend bijzonder en belangrijk boek dat iedereen zou moeten lezen. Opdat wij nooit zullen vergeten..."
+        "comment": "Lale en Gita, beide Slowaken en van Joodse afkomst, ontmoeten elkaar in Auschwitz, een gevangenenkamp van de Duitse SS waar ze beide in 1942 naar gedeporteerd zijn. Lale is daar te werk gesteld als de T -de tatoe- en moet alle nieuw aangekomen mensen voorzien van een nummer. Zijn nummer, 32407, kreeg hij bij binnenkomst, die van Gita, 34902, kerfde hij zelf als T in haar arm. Vanaf dat moment sloot hij Gita in haar hart. Gedurende de oorlogsjaren probeert Lale te zorgen dat Gita niets overkomt. Vele ontberingen volgen, Lale neemt telkens opnieuw risico om meer  te verwerven en slaagt erin enig vertrouwen te wekken bij de officieren van SS. Het lukt hem daarmee ook een iets betere omgeving voor Gita te bewerkstelligen. Ze zitten beide in andere blokken en op andere werkplekken maar door Lale verworven  hebben ze toch de kans elkaar af en toe te zien. Ook probeert Lale andere gevangenen te helpen. Hij heeft contact met  en smokkelt eten naar binnen, wat hem aanzien geeft bij zijn medegevangenen. Op een dag wordt hij echter verraden en komt hij in het strafkamp terecht. Daar zou nooit iemand overleven of vrijgelaten worden, maar Lale wist -weliswaar niet ongeschonden- te overleven . Zo zou hij nog meerdere malen de dood in ogen zien, het leek er op dat hij negen levens had, net als een kat. Uiteindelijk worden Lale en Gita van elkaar gescheiden na bijna 3 jaar. Gita wordt op de dodenmars gezet en Lale wordt elders ondergebracht waar hij geacht wordt meisjes  regelen. Beide weten echter te ontsnappen. De oorlog is inmiddels voorbij. Lale vindt zijn ouderlijk huis terug en zijn zus Goldie, die als enige de oorlog blijkt te hebben overleeft en inmiddels is gehuwd met een Russische officier. Lale is ook altijd blijven geloven dat Gita nog in leven is en begint een lange zoektocht naar haar, dagelijks wacht hij op het station in Bratislava waar de mensen die uit de kampen bevrijd zijn langzaamaan terugkeren. Het loopt naar het einde van de zomer als hij haar eindelijk vind. De Russen hebben destijds de Joden bevrijd, maar daarna ook Slowakije bezet. Om die reden heeft Lale zijn achternaam veranderd in Sokolov, de Russische achternaam van zijn getrouwde zus- een naam die meer geaccepteerd was dan Eisenberg in het door de Sovjet-Unie bezette Slowakije. Na de oorlog trouwen Lale en Gita. Ze gaan in Bratislava wonen. Maar ook dan is het leven nog niet makkelijk want Lale, die intussen een succesvol zakenman is geworden, wordt opnieuw verraden. En weer moeten ze vluchten. Ze vinden uiteindelijk het geluk in Australi, waar ze samen hun zoon Gary krijgen. Gita overleed in 2003 en Lale in 2006. Gary doet in het boek het nawoord en verteld hoe hij opgroeide in een liefdevol gezin, maar ook welke invloed de oorlog al die jaren heeft gehad op hun leven na de oorlog.Het boek is geschreven vanuit de hoofdpersoon Lale. Hij verteld zelf niet over de gruwelijkheden maar ondergaat ze. Doordat de liefde in het boek de rode draad vormt, leest het als een soort roman, ondanks alle vreselijke ontberingen.Ik heb diep respect gekregen voor de wilskracht van Lale en Gita, steeds weer werden ze gebroken door SS, maar ze vochten zo hard, evenals vele anderen die helaas een ander lot wachtten. De spanning werd steeds meer merkbaar en je hoopt op een goede afloop, hoewel je weet dat het heel veel mensen het leven heeft gekost en nu nog steeds na al die jaren een grote impact heeft op het leven van de nabestaanden.Een vlot lezend relaas, het verhaal heeft echt even moeten bezinken bij mij voor ik aan een ander boek kon beginnen.Heather Morris (geb. Awamutu,Nieuw Zeeland) tekende het verhaal van Lale Sokolov al op in 2003 en deed daar 3 jaar over.Lale en Gita hadden bijna 60 jaar alles verzwegen over wat ze hadden meegemaakt, hoewel Lale af en toe wel wat vertelde aan zijn zoon Gary. Pas na de dood van Gita wilde Lale met zijn verhaal naar buiten treden, het mocht nooit vergeten worden."
       }
     ]
   },
   {
-    "id": "9200000123911129",
-    "title": "Falastin",
-    "author": "Sami Tamimi",
-    "desc": "Het langverwachte vervolg op Ottolenghi's bestseller Jeruzalem!Van de co-auteurs van de Ottolenghi-bestsellers Jeruzalem, Ottolenghi - Het Kookboek en Simpel.Sami Tamimi en Tara Wigley reizen door Bethlehem, Oost-Jeruzalem, Nablus, Jenin, Haifa, Akka, Nazareth, Galilea en de Westelijke Jordaanoever en nodigen je uit om de smaken uit Sami's thuisland te ervaren. Het eten is de perfecte mix van traditioneel en eigentijds, met recepten die al generaties lang zijn doorgegeven. De gerechten die zijn ge door Sami en Tara's samenwerking met producenten en boeren in heel Palestina. Dek je tafel met de meest heerlijke gerechten - van overvloedige salades, soepen en gezonde granen tot luchtige broodjes, eenvoudige gerechten en geparfumeerde zoete lekkernijen. Falastin staat vol verbluffende gerechten die je wilt koken en eten, waar je verliefd op wordt en die je je eigen maakt. In prachtige uitgave met linnen omslag.",
-    "price": 29.99,
-    "average_rating": 0,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/9/2/1/1/9200000123911129.jpg",
-    "reviews": []
-  },
-  {
-    "id": "9200000105269716",
-    "title": "Five Feet Apart",
-    "author": "Rachael Lippincott",
-    "desc": "Now a major motion picture on Netflix starring Cole Sprouse (Riverdale's Jughead) and Haley Lu Richardson (The Edge of Seventeen and Recovery Road)! In this moving story that's perfect for fans of John Green's The Fault in Our Stars, two teens fall in love with just one minor complication - they can't get within a few feet of each other without risking their lives. Can you love someone you can never touch? Stella Grant likes to be in control - even though her totally out of control lungs have sent her in and out of the hospital most of her life. At this point, what Stella needs to control most is keeping herself away from anyone or anything that might pass along an infection and jeopardize the possibility of a lung transplant. Six feet apart. No exceptions. The only thing Will Newman wants to be in control of is getting out of this hospital. He couldn't care less about his treatments, or a fancy new clinical drug trial. Soon, he'll turn eighteen and then he'll be able to unplug all these machines and actually go see the world, not just its hospitals. Will's exactly what Stella needs to stay away from. If he so much as breathes on Stella she could lose her spot on the transplant list. Either one of them could die. The only way to stay alive is to stay apart. But suddenly six feet doesn't feel like safety. It feels like punishment. What if they could steal back just a little bit of the space their broken lungs have stolen from them? Would five feet apart really be so dangerous if it stops their hearts from breaking too?",
-    "price": 11.99,
-    "average_rating": 4.8,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/1/7/9/9200000105269716.jpg",
-    "reviews": [
-      {
-        "id": "107839019",
-        "author_name": "Kirrib",
-        "title": "als de liefde onmogelijk lijkt...",
-        "timestamp": "2019-01-08",
-        "rating": 100,
-        "comment": "Het is een van de weinige verhalen geschreven over mucoviscidose dat realistisch overkomt...geen rare toestanden als een cF'er die als beroep aan duiken doet, want je mag niet eens duiken met mucoviscidose...mooi, realistisch en emotioneel!"
-      },
-      {
-        "id": "110982437",
-        "author_name": "Ilseex",
-        "title": "Goed boek!",
-        "timestamp": "2019-05-14",
-        "rating": 80,
-        "comment": "Het boek gaat over een heftig onderwerp maar door de mooie verhaallijn ervaar ik het niet zo heftig. Zeker een aanrader."
-      },
-      {
-        "id": "111352162",
-        "author_name": "Itsdebbyx",
-        "title": "Top boek!",
-        "timestamp": "2019-05-28",
-        "rating": 100,
-        "comment": "Elk hoofdstuk weer mo ik het volgende hoofdstuk verder lezen. Heel goed verhaal, erg indrukwekkend en mooi geschreven."
-      }
-    ]
-  },
-  {
-    "id": "9200000025532933",
-    "title": "Sapiens [Nederlandstalig]",
-    "author": "Yuval Noah Harari",
-    "desc": "Honderdduizend jaar geleden leefde de Homo sapiens nog een tamelijk onbekommerd bestaan in een uithoek van het Afrikaanse continent en deelde hij de planeet met ten minste vijf andere menssoorten. Maar op een zeker moment onderging het brein van deze mens een ingrijpende verandering: nu kon hij zich plots verbeelden dat het gras elders wel eens groener zou kunnen zijn, en dus maakte hij zich op om de wereld te veroveren. In Sapiens neemt Yuval Noah Harari ons mee op een fascinerende reis door de geschiedenis van de mensheid. Wie zijn we? Waar komen we vandaan? En hoe zijn we zo geworden als we nu zijn? In zijn aanstekelijke relaas laat Harari ons kennismaken met het meest dominante wezen op aarde: de mens. 'Zeventigduizend jaar geleden was Homo sapiens nog een onbeduidende diersoort die zo'n beetje zijn eigen gangetje ging in een uithoek van Afrika. In de millennia daarna veranderde hij zichzelf in de absolute heerser van de planeet en de grootste nachtmerrie van het ecosysteem.'",
+    "id": "1001004007241439",
+    "title": "500 ijsrecepten",
+    "author": "TextCase",
+    "desc": "In dit boek vindt u alles wat u moet weten over het zelf maken van ijs. Probeer eens een van de 500 geweldige creaties, waaronder klassiek roomijs, sorbets, Italiaanse gelato, waterijsjes en granita, ijsdesserts, kindvriendelijke traktaties en overheerlijk ijs voor iedereen die op de calorie en zijn of haar gezondheid wil letten.Inclusief tips over het kiezen en gebruiken van ijsmachines en aanwijzingen over het maken van ijs zonder speciale hulpmiddelen.Speciale hoofdstukken met recepten voor ijs zonder zuivel en vetarm en suikervrij ijs.500 geweldige recepten voor verschillende verleidelijke soorten ijs, met heerlijke sauzen en andere smakelijke extra.",
     "price": 9.99,
     "average_rating": 4.6,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/3/9/2/9200000025532933.jpg",
+    "image_thumbnail": "https://s.s-bol.com/imgbase0/imagebase3/regular/FC/9/3/4/1/1001004007241439.jpg",
+    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/9/3/4/1/1001004007241439.jpg",
     "reviews": [
       {
-        "id": "51653531",
-        "author_name": "breijs",
-        "title": "Fantastisch compleet overzicht",
-        "timestamp": "2015-07-14",
+        "id": "12726084",
+        "author_name": "aletbarten",
+        "title": "500 ijsrecepten",
+        "timestamp": "2011-12-13",
         "rating": 100,
-        "comment": "Niet voor niets een bestsellerPrima geschreven, boeiend en een compleet overzichtEen aanrader"
+        "comment": "een handig goed formaat boekje met veel recepten. Duidelijke beschrijving wat je moet doen er wordt niets te veel en niets te weinig geschreven en ik heb al recepten uitgeprobeerd en het was heerlijk niet moeilijk beschreven het klopt gewoon"
       },
       {
-        "id": "51684085",
-        "author_name": "Karelfrans",
-        "title": "Sapiens",
-        "timestamp": "2015-07-14",
-        "rating": 100,
-        "comment": "Met een korte verhaal stijl maakt de schrijver inzichtelijk hoe de menselijke soort zich heeft ontwikkeld en wat er allemaal door de mens is toegevoegd aan het simpele bestaan dat oorspronkelijk alleen gericht was op overleven. Denk aan religie, politiek, machtsverhoudingen, wetgeving etc.Erg boeiende gedachtensprongen en \"Eye-openers\"."
-      },
-      {
-        "id": "98143694",
-        "author_name": "Nickvdg",
-        "title": "Interessante kost",
-        "timestamp": "2017-12-14",
-        "rating": 100,
-        "comment": "voor iemand die gewoonlijk altijd in slaap viel tijdens geschiedenislessen was dit het eerste boek over geschiedenis van de mens wat ik van (digitale) kaft tot kaft heb gelezen. Waarom kon ik het boek vaak niet wegleggen? Omdat het niet chronologisch is neergekwakt in de vorm van opeenvolgende micro-gebeurtenissen. De helicopterview zorgt ervoor dat je niet verdwaald in een bos van feitjes die uiteindelijk weinig connectie hebben met hedendaagse verschijnselen.Door dit boek ben ik me vooral bewust geworden van onze rol op aarde: hoe we relatief zoveel macht hebben weten te vergaren in zo'n korte periode. Vooral ten koste van onze broers, zussen en ongeslachtigen in het dierenrijk. De monocultuur die we aan het creeeren zijn in zowel onszelf als onder dieren is zorgelijk. Wat me het meeste aangreep is de vergelijking van de mens van nu met de jager-verzamelaar van toen. Ondanks de hoge standaard die we nu hebben op het gebied van onderwijs, zorg en intellect, welke alle hebben gezorgd voor langere levensduur en tal van andere 'voordelen', zijn we ook daadwerkelijk gelukkiger geworden ten opzichte van de toenmalige 'oermens'? Harari werpt een kritische blik op verleden, heden en toekomst en de schakeling tussen die 3 houdt het verhaal dynamisch en is soms zelfs lachwekkend. Ik denk dat als iedereen dit boek zou (en kon) lezen, bewustzijn ten aanzien van racisme immens zou groeien en dat het verschijnsel, met de kennis van nu, eens serieus aan de kaak gesteld zou worden."
-      }
-    ]
-  },
-  {
-    "id": "9200000059527998",
-    "title": "Het grote voorleesboek voor rond de 3 jaar",
-    "author": "Diverse auteurs",
-    "desc": "Vrolijke voorleesbundel uit de succesvolle reeks met grappige en herkenbare verhalen voor alle driejarigen.Als je (bijna) drie jaar bent, verandert er veel. Je moet opeens op de grote wc, je krijgt een bed voor grote kinderen en je hebt een wendag op de grote school. Tijd om te spelen is er gelukkig ook genoeg: naar de dierentuin gaan, kuilen graven op het strand, eendjes voeren, je hond knuffelen of je verkleden als superheld of krokodil.Speciaal voor alle driejarigen zit dit boek boordevol verhalen, versjes en prenten van veel bekende schrijvers en tekenaars. Zowel klassiek als nieuw werk en van herkenbare alledaagse gebeurtenissen tot sprookjes en dierenverhalen. Duw je papa, mama, opa of oma dit boek in handen en kijk en luister mee. Met Dikkie Dik, nijntje pluis, Jip & Janneke, beertje Pippeloentje, Muis, Woezel & Pip en vele anderen.",
-    "price": 21.99,
-    "average_rating": 4.6,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/9/9/7/9200000059527998.jpg",
-    "reviews": [
-      {
-        "id": "94000576",
-        "author_name": "PenelopeWosh",
-        "title": "Grote variatie aan verhalen",
-        "timestamp": "2017-10-06",
-        "rating": 80,
-        "comment": "Een boek vol verschillende verhalen, gericht op kinderen van rond de 3 jaar. Ideaal als je een cadeau zoekt voor een kind rond deze leeftijd, omdat je ervan uit kunt gaan dat de verhaaltjes aansluiten bij de belevingswereld van het kind. Omdat er heel veel verschillende verhalen in staan, kan je verrast worden door een schrijver of personage die je nog niet kende. Het nadeel is dat wanneer je kind een bepaald personage heel leuk vindt, je hooguit twee verhalen hiervan in het boek tegen zult komen en je dus alsnog een boek op het lijstje kunt zetten om te kopen... :)Het is logisch dat het ene verhaaltje meer aanspreekt dan het andere; dat heb je als volwassene ook. Soms spreekt een verhaal juist aan, omdat het een ondeugend verhaal is (Jip en Janneke), omdat het heel herkenbaar is ('Zaterdag', over Hugo die mee gaat naar de markt), omdat je er als ouder er makkelijk een grappige stem bij kunt gebruiken ('Ik doe het lekker toch', ook meteen ondeugend!), of omdat het personage al bekend is bij het kind (Woezel en Pip, Dikkie Dik, Nijntje). Andere verhalen kunnen minder aanspreken, omdat er juist teveel of te weinig tekst bij het verhaal zit of omdat het wat ouderwets is waardoor de woorden niet goed begrepen worden.Hier thuis is het een activiteit geworden dat ik snel door de bladzijdes blader en mijn dochter stop roept. Het verhaal waar we dan uitkomen gaan we ook lezen. Dit vindt ze helemaal leuk en zo is het voor ons beide steeds weer een verrassing welk verhaal we gaan lezen. Doordat het boek een gewoon formaat heeft is het ook makkelijk te hanteren voor mijn eigen driejarige. Ze kan het makkelijk zelf tillen en meenemen naar waar ze ook wil lezen (of ok, plaatjes kijken). Ze pakt dit boek dan ook regelmatig zelf uit de kast. Naast verhalen (welke waarvan sommige kort van stof zijn, zoals Dikkie Dik, en andere juist een langer verhaal zijn, zoals 'Een bed voor Juultje'), zitten er ook een aantalkijkplaten in het boek. Leuk voor de afwisseling en ze bieden verschillende mogelijkheden. Zo vraag ik bijvoorbeeld waar ze de olifant ziet in de dierentuinkijkplaat of wijs ik het klimrek aan naast de kijkplaat van de speeltuin en vraag aan haar waar zij die in de plaat ziet. Of we spelen het spelletje  zie ik zie wat jij niet ziet en de kleur is.Een leuk boek met een grote variatie aan verhalen, plaatjes en mogelijkheden."
-      },
-      {
-        "id": "88159259",
-        "author_name": "BBBieke",
-        "title": "Leuk!",
-        "timestamp": "2017-06-13",
-        "rating": 80,
-        "comment": "Precies wat je er van verwacht en inderdaad passend bij de leeftijd van een drie jarige.Leuke verhaaltjes en illustraties. Het voordeel van voorleesboeken is dat je veel variatie hebt en kennis kunt maken met verschillende schrijvers. Het nadeel is natuurlijk dat het allemaal maar korte verhaaltjes zijn, dus als er iets bij zit wat je kind heel leuk vindt, dan moet je alsnog het 'originele' boek kopen. Maar een echt nadeel is dat eigenlijk niet. Ik ben in ieder geval positief."
-      },
-      {
-        "id": "115316541",
-        "author_name": "Lieneflo",
-        "title": "Mooie selectie verhalen.",
-        "timestamp": "2019-11-05",
-        "rating": 80,
-        "comment": "Een heel leuk voorleesboek met een mooie selectie verschillende verhalen, gedichtjes, praatplaten en versjes voor jonge kinderen. Voorlezen is altijd feest en dit boek zorgt voor een kennismaking met enkele verschillende verhaalstijlen zonder dat je er zelf naar moet zoeken."
-      }
-    ]
-  },
-  {
-    "id": "9200000098563020",
-    "title": "Oefenboek met stickers - Leuke leesoefeningen 6-7 jaar - 1ste leerjaar - groep 3",
-    "author": "ZNU",
-    "desc": "Leren!Dit oefenboek daagt je kind uit om een heleboel dingen te leren en te oefenen: woorden lezen, zinnen vormen, begrijpend lezen, associaties maken en nog zo veel meer. Kortom: leuke oefeningen om de leesvaardigheid te verbeteren.Spelen!Dankzij de speelse oefeningen en leuke tekeningen leert je kind spelenderwijs lezen. Wie zegt dat leren saai moet zijn?Plakken!Je kind mag elke oefening versieren met stickers. Zo maakt het van dit boek een vrolijk en kleurrijk oefenboek!Oefenpret verzekerd!",
-    "price": 7.95,
-    "average_rating": 5.0,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/0/2/0/3/9200000098563020.jpg",
-    "reviews": [
-      {
-        "id": "116417557",
-        "author_name": "Arang",
-        "title": "Alles wat je zoek is bol.com",
-        "timestamp": "2019-12-10",
-        "rating": 100,
-        "comment": "Ik vond tot nu toe alles ok"
-      }
-    ]
-  },
-  {
-    "id": "9200000108295978",
-    "title": "De drie dochters 1 - Rosalinds leugen",
-    "author": "Muna Shehadi",
-    "desc": "De drie dochters van filmster Jillian Croft en haar beroemde echtgenoot Daniel groeien op in weelde, ook na de tragische dood van hun moeder. Jaren later staat hun wereld op zijn kop, als ze een medische verklaring vinden waaruit blijkt dat Jillian nooit zwanger kon zijn geweest. Olivia en Eve willen er het fijne niet van weten, maar middelste zus Rosalind kan het niet loslaten. Ze heeft zich altijd anders gevoeld en wil weten hoe het zit. Drie geheime schriften leiden haar naar Leila Allerton, een operazangeres uit New Jersey, en haar grote, warme gezin met Libanese roots. Onder valse voorwendselen sluit ze vriendschap met de familie. Durft ze te vertellen wat haar werkelijk drijft?",
-    "price": 1.99,
-    "average_rating": 4.1,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/thumb/FC/8/7/9/5/9200000108295978.jpg",
-    "reviews": [
-      {
-        "id": "113246584",
-        "author_name": "ranata",
-        "title": "Rosalinds leugen",
-        "timestamp": "2019-08-13",
-        "rating": 80,
-        "comment": "Rosalinds leugen is een het eerste boek van Muna Shehadi over de drie zussen Rosalind, Eve en Olivia.In het eerste deel gaat vooral over het verhaal van Rosalind, als ze samen met haar zussen tijdens het opruimen in haar vaders huis een document vinden die over de medische gegevens gaan van hun moeder de actrice Jillian Croft, gaat Rosalind op onderzoek uit, naar hoe het zit.Zo komt ze op het spoor van Leila Allerton en haar gezin.Het verhaal speelt zich deels af in Maine en deels in Princeton, je krijgt tijdens het lezen, van beide plekken wel een beeld, ook is het mooi dat doordat Leila haar moeder Libanese is, er iets van die cultuur in het verhaal gemengd is, zo kun je tijdens het lezen wel trek krijgen van de lekkere Libanese gerechten die in het boek genoemd worden. Leuke is dan ook dat sommige gerechten achter in het boek staan met hun recept.De personages in het boek zijn ook gewoon leuk, er zit voor ieder wat wils in, het laat je ook zien dat er vaak meer achter een bepaalde situatie zit.Zelf had ik het meeste met Rosalind, omdat ze ondanks dat ze altijd ergens makkelijk van af kwam als het tegen zit, ze zich nu wel echt ergens in vastbijt.Mena Shehadi heeft een fijne schrijfstijl, ze schrijft heel beeldend, ze laat je al lezende zien hoe het er daar uit ziet, maar ze blijft je boeien, ze neemt je ook een klein beetje mee naar de filmwereld, wat natuurlijk altijd leuk is.Het is een leuk en origineel verhaal, het maakt je tijdens het lezen nieuwsgierig naar hoe het nu zit met de waarheid, maar het laat je ook nadenken over bepaalde gebeurtenissen, soms wordt je ook een beetje op het verkeerde been gezet, dus je blijft wel altijd geboeid lezen.Het is gewoon een prima en leuk boek, wat toch wel nieuwsgierig maakt naar de verhalen van Eve en Olivia."
-      },
-      {
-        "id": "112937339",
-        "author_name": "Ingelke555",
-        "title": "Een aanrader!",
-        "timestamp": "2019-08-02",
-        "rating": 100,
-        "comment": "Met veel plezier las ik dat ik uitgekozen was om deel te nemen aan het reviewteam van dit boek! Dit eerste deel van een veelbelovende trilogie gaat vooral over de middelste zus Rosalind. Zij en haar zussen zijn opgegroeid in weelde bij hun moeder die filmster was en hun beroemde vader.Jaren na de de tragische dood van hun moeder komen ze erachter dat hun moeder nooit zwanger is geweest!! Olivia en Eve willen er niks van weten maar Rosalind kan het niet loslaten en wil op zoek naar de waarheid.Drie geheimen schriften leiden haar naar een operazangers en haar gezin met libanese roots.Deze zoektocht naar de waarheid, brengt het haar waar ze naar op zoek is?Dit boek sprak mij al aan toen ik de aankondiging las bij Harper Collins. Een nieuwe trilogie, daar werd ik blij van want dat betekent dat het verhaal verder gaat na dit boek!Deze schrijfster heeft mij echt vanaf het begin gegrepen, ik voelde alles wat beschreven werd en kon het niet meer wegleggen. Je wordt in het verhaal meegezogen en wil zo graag weten hoe het verder gaat!Ik kan nu al niet wachten op het tweede deel en weet zeker dat veel lezers die graag Lucinda Riley en Santa Montefiore lezen enorm zullen genieten van deze serie.Ik kan ook geen minpunten bedenken bij dit boek, het was genieten van het begin tot het eind. Veel ga ik er niet over loslaten want dit boek moet echt gelezen worden!"
-      },
-      {
-        "id": "113330571",
-        "author_name": "IdaV",
-        "title": "een heerlijk boek wat je in 1 ruk wilt uitlezen",
-        "timestamp": "2019-08-17",
-        "rating": 80,
-        "comment": "In dit eerste deel van de serie 'de drie zussen' van Muna Shehadi gaat het verhaal voornamelijk over Rosalind. Als ze met haar twee zussen Eve en Olivia het huis van hun beroemde vader moeten opruimen, omdat die in een kliniek verblijft, vinden ze een oud medisch document over hun eveneens beroemde moeder Jillian, die jaren geleden al is overleden. Volgens het document kon hun moeder namelijk helemaal geen kinderen krijgen. Maar waar komen Rosalind en haar zussen dan vandaan? Eve en Olivia willen het laten rusten, maar Rosalind kan het niet los laten en zoekt verder in het huis. Als ze dan nog iets vind wat haar hele verleden aan het wankelen brengt, wil ze nog 1 ding vinden: de waarheid over waar ze vandaan komt...Ieder hoofdstuk begint met een fragment uit het dagboek van Jillian. Het is confronterend om te lezen hoe medische ingrijpende gebeurtenissen destijds werden afgehandeld en in de doofpot werden gestopt. Het liet ook erg goed de gevoelens van Jillian zien, en waarom ze bepaalde keuzes heeft gemaakt.Rosalind komt uit bij de Libanese Leila Allerton en haar familie.Ze sluit vriendschap met het gezin, zonder de reden te zeggen waarom ze daar is, en ze helpt hun bij de voorbereidingen van het huwelijk van haar dochter. Ondertussen leert ze de Libanese keuken kennen dankzij Zanai, de moeder van Leila. Zaina sluit Rosalind direct in haar hart, maar ze is ook erg ziek, dus het gezin moet zich ook ondertussen ook opmaken voor een droevige gebeurtenis.Ik denk dat ik  van de weinige ben die de zeven zussen serie nog niet heeft gelezen, en ik kan het dus ook niet met elkaar vergelijken. Dit boek is goed opgebouwd, en heerlijk geschreven. Je wilt doorlezen om erachter te komen hoe de vork in de steel zit.Een prachtig verhaal, vol familiegeheimen, een zoektocht, antwoorden, vol wijze levenslessen en heerlijke recepten.Ik ben nu zeker benieuwd naar het vervolg: Olivia geheim en Eve waarheid!"
-      }
-    ]
-  },
-  {
-    "id": "1001004002726626",
-    "title": "Mindfulness",
-    "author": "Edel Maex",
-    "desc": "In Mindfulness leer je hoe je steeds weer de rust en helderheid in jezelf kunt opzoeken. Ook wanneer het leven je deze rust niet gunt, leer je zo goed mogelijk om te gaan met wat zich aandient.  Edel Maex, psychiater in het ZNA Middelheim, Antwerpen, geeft al jaren, aan steeds grotere groepen mensen, trainingen in Mindfulness. MINDFULNESS, zo luidt het nieuwe basiswoord voor wie beter wil omgaan met de onvermijdelijke stress van het leven. MINDFULNESS vindt zijn oorsprong in boeddhistische meditatietechnieken. In plaats van voortdurend toe te leven naar doelen die ver in de toekomst liggen, leer je met een milde open aandacht aanwezig te zijn bij wat nu is. MINDFULNESS leert je hoe je de rust en helderheid kunt opzoeken in jezelf. Ook als het leven je deze rust niet gunt, geeft mindfulness je de vrijheid goed om te gaan met de onrust, zonder jezelf erin te verliezen. ",
-    "price": 19.99,
-    "average_rating": 4.5,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/2/6/6/1001004002726626.jpg",
-    "reviews": [
-      {
-        "id": "17120949",
-        "author_name": "Anonymous",
-        "title": "Een ontzettend fijn boek en naslagwerk over Mindfulness",
-        "timestamp": "2012-05-10",
-        "rating": 100,
-        "comment": "Nadat ik de achtweekse mindfulnesstraining had gevolgd, bestelde ik alsnog dit aanbevolen boek. Wat mij direct op viel was het grote lettertype en het aantal plaatjes en gedichten. Meestal lees ik het liefst zoveel mogelijk en dit leek erop dat het een summier boek zou zijn met misschien weinig diepgang (vooral als je de training al heb gevolgd) Dit bleek echter een te snel oordeel, want het boek bleek een heel fijn boek om in mijn boekenkast te hebben. Ook ju door het lettertype en de indeling van het boek; dit maakt het zeer overzichtelijk. Het fijne is dat je ook zeer gemakkelijk kunt teruggrijpen op bepaalde zaken waar je later nog eens tegenaan loopt of weer even over opgefrist wil worden. Ook komen er zeker dingen aan bod die niet zo uitgebreid in een mindfulnesstraining worden besproken, zoals de termen mildheid en hardheid, het omgaan met heftige emoties en angst. Precies zaken waar ik mijn vraagtekens nog wat bij had, precies de diepgang die ik nog even wilde. Het hoofdstuk over De Vermoeidheidsfuik was voor mij persoonlijk het meest inspirerend.Edel Maex neemt je mee op een reis die z overzichtelijk, praktisch, concreet en down to earth is. Hierbij spreekt hij vaak met heldere taal die ook zeer respectvol en begripvol is naar jou als lezer, als iemand met problemen.Hij is veel onderzoekend bezig geweest betreffende mindfulness en psychotherapie in zijn werk  persoonlijk leven, waardoor hij met een open, onderzoekende blik naar mindfulness en psychotherapie kijkt. Dit maakt het kwetsbaar, verfrissend en zeer mindfull!Het integreren van een kort maar volledig stukje over onderwerpen als psychotherapie, het boeddhisme en Jon Kabat-Zinn, maakt het af. Zeker met een nawoord van Jon Kabat-Zinn zelf.Een aanrader!"
-      },
-      {
-        "id": "4914072",
-        "author_name": "Anonymous",
-        "title": "MINDFULLNESS",
-        "timestamp": "2008-03-23",
-        "rating": 100,
-        "comment": "Een heel goed praktisch boek voor mensen die worstelen met psych. problemen zoals depressie en angststoornissen. Goed om in het dagelijks leven te gebruiken met heldere teksten en tips. Op een prettige manier geschreven."
-      },
-      {
-        "id": "9643808",
-        "author_name": "MaaikeM",
-        "title": "Aanrader",
-        "timestamp": "2011-04-08",
-        "rating": 100,
-        "comment": "Een goed en makkelijk te lezen boek. Geen 'zweverig' verhaal en heel praktisch toepasbaar. Het boek leest makkelijk omdat het korte hoofstukjes zijn. Het is daardoor ook een boek wat je later nog eens oppakt een weer kortje stukjes uit kunt lezen. Het boek maakt je bewuster van je zelfbewust zijn een leert je ontspanning te vinden bij de vele stressvolle gebeurtenissen in het leven."
-      }
-    ]
-  },
-  {
-    "id": "1001004004981286",
-    "title": "The Secret",
-    "author": "Rhonda Byrne",
-    "desc": "Je hebteen groot geheim in handen...Er bestaat een eeuwenoud Geheim: The Secret. Het werd gezocht, gevonden en weer verloren, het is gestolen en voor veel geld doorverkocht. Tot nu toe was kennis van dit Geheim voorbehouden aan een kleine kring van ingewijden. Plato, Galileo en Einstein kenden The Secret, net als de succesvolste uitvinders, denkers en ondernemers in de geschiedenis. Dat juist zij de wereld konden veranderen is geen toeval...Zij begrepen dat, net zoals er atoomkracht schuilt in eon korrel zand, or ook in ieder van ons een ontzagwekkend vermogen schuilt - een verborgen kracht waarmee je wensen werkelijkheid kunnen worden. Oude en moderne meesters onthullen in dit book hoe zij The Secret hebben ontvangen en toegepast in hun leven. Hoe zij alle tegenslagen konden overwinnen en rijkdom en succes verweren die ze niet voor mogelijk hadden gehouden.Zij willen dit Geheim nu delen met jou.",
-    "price": 20.99,
-    "average_rating": 4.1,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/8/2/1/1001004004981286.jpg",
-    "reviews": [
-      {
-        "id": "5644949",
-        "author_name": "Bernice",
-        "title": "Het geheim",
-        "timestamp": "2010-01-30",
-        "rating": 80,
-        "comment": "Dit boek heb ik maanden geleden hier op bol gekocht en ik was er al in begonnen, maar daarna heb ik het links laten liggen, omdat ik liever een fictief verhaal lees. Nu heb ik het eindelijk verder gelezen en ik vind het een heel filosofisch, psychologisch, spiritueel en inspirerend boek. Eigenlijk heb ik niet het gevoel dat ik een geheim heb gelezen. Wel werd er iets bevestigd wat ik door bepaalde ervaringen al dacht. Door negatief te denken, zend je een negatieve frequentie naar het universum uit, waardoor je meer ongeluk aantrekt. Door positief te denken, zend je echter een positieve frequentie naar het universum uit, waardoor je nog meer mooie dingen aantrekt. Hierdoor kun je een gelukkiger leven cre. Je moet in je hoofd bedenken en visualiseren wat je wilt hebben, alvast voelen dat je het bezit en er dankbaar voor zijn, en dan zul je het krijgen, zegt dit boek. Ik denk niet dat iedereen ervoor openstaat. Je moet ruimdenkend en misschien een beetje spiritueel ingesteld zijn om in The Secret te geloven. Makkelijk vind ik het niet. Positief denken vind ik  van de moeilijkste dingen en ook is het moeilijk om, als allles tegenzit, het vertrouwen te hebben dat het goed zal komen. Dan ben ik bang dat ik mijzelf voor de gek houdt en teleurgesteld zal worden als dat wat ik had gehoopt en gewenst niet uitkomt. Als dat gebeurd, kan het je geloof in het geheim doen afnemen. Toch kan dit boek wel heel leerzaam zijn en een steun in slechte tijden. Wel denk ik dat je, als je grote problemen hebt, meer nodig hebt dan deze kennis. Ik denk niet dat het ziektes spontaan kan genezen en problemen gemakkelijk laat verdwijnen, maar het kan je gesteldheid wel verbeteren als je het toepast en aan fijne dingen denkt. Daardoor voel je je al wat beter. Ik ben benieuwd naar de film en ik ben blij dat ik dit boek heb gelezen, maar ik moet wel zeggen dat ik er niet zoveel nieuws door geleerd heb en soms iets te veel herhaling las. Daarom geef ik het  ster minder."
-      },
-      {
-        "id": "9233944",
-        "author_name": "Chanelie",
-        "title": "levens-veranderend boek",
-        "timestamp": "2011-02-19",
-        "rating": 100,
-        "comment": "Ik heb door het aandachtig lezen van dit boek mijn leven een andere invulling gegeven.In het begin lijkt het 'wazig', maar nog eens lezen en erover nadenken was de manier voor mij om te begrijpen wat er bedoelt werd.Als vrij snel had ik, door de kleine voorbeeldjes zelf als oefeningetjes toe te passen, in de gaten dat je veel meer met je gedachten kunt dan je denkt. De wet van de aantrekkingskracht, zoals dat heet. Je leert dat iets wat negatief lijkt uiteindelijk een reden had en iets veel positievers dan je had gehoopt komt er voor in de plaats. 'Toevalligheden' volgen elkaar op en al snel merk je dat ontmoetingen en gebeurtenissen zo in elkaar passen dat van toeval geen sprake meer is. Vrijwel meteen na het lezen mijn eigen bedrijf begonnen en ook daarin zie ik dat ik van de ene juiste ontmoeting in de andere leuke opdracht terecht kom met succesvolle resultaten. Wanneer je het boekje zo nu nog eens geheel of gedeeltelijk leest zie je dat je het snapt omdat je heel veel dingen die je eerder las nu herkent.Je bent je veel meer bewust van je gevoel en stemming en weet nu hoe je een minder goed humeur (wat bijna nooit meer voor komt) snel weer verandert in vrolijkheid en optimisme! Toen ik the secret aan het 'uitvinden' was hoorde ik heel vaak overal de song waarvan ik een linkje heb geplaatst !Al 15 exemplaren kado gegeven aan vrienden (die nieuwschierig zijn door mijn ervaringen) en zij geven er soms ook weer 1 door als kado. Ik kreeg het via mijn zusje die het bij de Oprah Winfrey show had gezien. Ik hoop dat het voor jou (revieuw-lezer) ook zo zal gaan!"
-      },
-      {
-        "id": "4935753",
-        "author_name": "Anonymous",
-        "title": "geweldig",
-        "timestamp": "2008-03-12",
-        "rating": 100,
-        "comment": "Ik heb dit boek gekocht en gelezen. Ik heb/had sinds 1996 een chronische aandoening als gevolg van een bedrijfsongeval, genaamd chronische tinnitus ( meest extreme vorm ) en hyperacusus. Er zijn veel mensen die met deze aandoening zelfmoord hebben willen plegen of gepleegd hebben ( zie een aflevering van het programma Rondom10 ). Volgens specialisten en audiologen zou ik er mee moeten leven, therapie heeft niet geholpen. Maar na lezen van het boek ben ik er gewoon van af, werkelijk. Ik voel me super gelukkig om weer te kunnen horen zonder het geruis van een slagboormachine dat ik elke voorheen elke dag 24 uur bij me had. Ik respecteer ieders mening over dit boek, maar voor mij is er werkelijk een wonder gebeurt."
-      }
-    ]
-  },
-  {
-    "id": "9200000040807506",
-    "title": "Het duivelskind",
-    "author": "Maria Genova",
-    "desc": "In Het Duivelskind vertelt bestsellerauteur Maria Genova het waargebeurde levensverhaal van Angel van der Vecht. Angel groeit op in een benauwend milieu. Stukje bij beetje raken haar ouders ervan overtuigd dat Angel een duivelskind is. Om haar te genezen mishandelen en misbruiken ze haar. De school schakelt Jeugdzorg in, maar onder de ogen van de gezinsvoogd gaan de mishandelingen, de vernederingen en het misbruik onverminderd door. Als jaren later het misbruik naar buiten dreigt te komen, besluit haar vader een einde aan Angels leven te maken. (Fragment) Als ze de badkamer instapt, ziet Angel haar vader met een groot keukenmes en een hoop pillen. Hij zet het mes op haar keel. 'Vandaag is het zo ver,' zegt hij. Een brede grijns verschijnt op zijn gezicht. 'Jij pleegt zelfmoord. En ik heb een alibi.'Falende jeugdzorg, foute ouders en omstanders die hun ogen sluiten. Kun je je als kind verweren tegen mensen in wie je het meeste vertrouwen hebt? In Het duivelskind overtreft de onvoorstelbare werkelijkheid de meest gruwelijke fictie.Lezers schreven: 'Het duivelskind is een onvergetelijke leeservaring die je nooit meer loslaat' 'In Het duivelskind overtreft de onvoorstelbare werkelijkheid de meest gruwelijke fictie'Maria Genova (1973) is journalist en schrijfster van een aantal succesvolle en taboedoorbrekende boeken. In 2014 werd ze uitgeroepen tot schrijfster van het jaar. ",
-    "price": 16.99,
-    "average_rating": 4.6,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/0/5/7/9200000040807506.jpg",
-    "reviews": [
-      {
-        "id": "67718496",
-        "author_name": "AVL1970",
-        "title": "Herkenbaar",
-        "timestamp": "2016-06-17",
-        "rating": 100,
-        "comment": "Een boek dat je in  ruk uitleest, althans deed ik toch. Soms had ik zoiets van \"ik moet nu even stoppen\" maar dan dacht ik neen gewoon doorgaan, ik wil alles meteen weten en lezen. Fantastisch geschreven en ben fan van haar boeken!!"
-      },
-      {
-        "id": "65640484",
-        "author_name": "Marge204",
-        "title": "Pakkend",
-        "timestamp": "2016-05-04",
-        "rating": 100,
-        "comment": "Een pakkend boek. Plaatsvervangende schaamte voor de hulpverlening, waar zij zoveel steken hebben laten vallen. Meeslepend verhaal."
-      },
-      {
-        "id": "25202834",
-        "author_name": "boekenwormpje",
-        "title": "Indrukwekkend, schokkend, een eye-opener",
-        "timestamp": "2013-03-07",
-        "rating": 100,
-        "comment": "Ik heb dit boek in 1 dag uitgelezen. Het verhaal is haast onvoorstelbaar, ik viel van de ene verbazing in de andere. Dat ouders zoiets hun eigen kind kunnen aandoen en dat Jeugdzorg zo verschrikkelijk faalt. Ik vond het een indrukwekkend verhaal, een eye-opener hoe dingen heel lang in het verborgene kunnen blijven."
-      }
-    ]
-  },
-  {
-    "id": "9200000114281326",
-    "title": "Boem Boem 2",
-    "author": "Jan van der Cruysse",
-    "desc": "Het tweede en laatste deel van Boem Boem.Hoe verder het onderzoek naar de dodelijke aanslag op de Antwerpse marathon vordert, hoe meer nieuwe vragen en tegenstrijdigheden de politie in de schoot geworpen krijgt. Met de tweede aanslag op een muziekschooltje in het hart van Brussel wordt de verwarring nog groter.Dat de terreur verband houdt met de diefstal van een lot handgranaten bij het Belgisch leger in de jaren tachtig is stilaan duidelijk. Maar hoe link je dat aan sporen naar ISIS en de Bende van Nijvel?In Boem Boem 2 zet de gruwel zich voort in een duikcentrum in het Limburgse Beringen. Uiteindelijk werpt een oud dossier over de verdrinkingsdood van een moslimmeisje een nieuw licht op de zaak. Zullen speurders Hannelore, Alice en Nina de daders snel genoeg vinden om een gigantische aanslag met drones en handgranaten te vermijden?",
-    "price": 21.99,
-    "average_rating": 4.5,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/2/3/1/9200000114281326.jpg",
-    "reviews": [
-      {
-        "id": "119296395",
-        "author_name": "tanyavc",
-        "title": "boem boem 2",
-        "timestamp": "2020-03-31",
-        "rating": 100,
-        "comment": "voor de liefhebber van een spannend boek is dit zeker een 'mustread'! Het boek sleept je mee van de eerste tot de laatste seconde. Moet je Boem Boem 1 gelezen hebben? Ja, bij voorkeur wel, maar de auteur komt regelmatig terug op de oorsprong van het verhaal. Je leest vlot hoe het verder gaat met de granaatdieven, wat ze doen om hun granaten aan de man te brengen, we nood heeft aan granaten (en vooral waarom) en hoe deze ook effectief worden ingezet."
-      },
-      {
-        "id": "119708180",
-        "author_name": "ilovemovies",
-        "title": "Explosief vervolg",
-        "timestamp": "2020-04-15",
-        "rating": 80,
-        "comment": "Jan van der Cruysse is een specialist in crisiscommunicatie, wat hij goed weet te gebruiken in zijn boeken. Na de reeks Bling Bling heeft hij met Boem Boem een explosief vervolg geschreven.Als je de reeks wilt lezen, is het noodzakelijk met het eerste deel te beginnen. Het verhaal van Bloedbad in Beringen (Boem Boem 2) vervolgt het einde van het eerste deel. Personages zijn daar al uitgewerkt en hebben een gezicht voor de lezer gekregen. Ook de gebeurtenissen uit Boem Boem 1 zorgen voor een beter te begrijpen situatie van dit tweede deel.Boem Boem 2 staat bol van de explosieve actie en een wat minder spectaculaire, maar daardoor verrassende ontknoping. De eerdere aanslagen leveren weinig informatie en motieven op. Wanneer er een nieuwe aanslag plaats vindt, komen er zaken aan het licht die het onderzoek mogelijk kunnen helpen. Door de schrijfstijl, die best vlot is te noemen leest het lekker weg. Er zit voldoende actie in, waarbij er niet te overdreven wordt omschreven. Het blijft ondanks een onderwerp waar je ver van uit de buurt hoopt te blijven geloofwaardig. Het verhaal is geschreven vanuit verschillende personages. Vanuit de verschillende personages wordt je door het verhaal geleid. De auteur maakt hierbij gebruik van tijdsweergave en deelhoofdstukken over een bepaald onderwerp. De combinatie met het teruggaan in de tijd geeft je als lezer een goed beeld over de ontstane situatie en beweegredenen van bepaalde acties. Voor deze reeks heeft dit een meerwaarde omdat je op deze manier op het juiste moment de juiste informatie krijgt. Zo blijf je goed in het verhaal zitten en blijft er tot het eind een ontwikkeling zichtbaar. De personages zijn sterk uitgewerkt. Er zijn duidelijke karakters met hun eigen eigenschappen. Omdat het een bij elkaar horende reeks is en in deel 1 al veel gebeurtenissen hebben plaats gevonden, is de ontwikkeling in specifiek deel 2 wat minder. Voor dit boek logisch en niet vervelend als je deel 1 hebt gelezen.Boem Boem 2 is een sterk vervolg van een goede reeks. Een actueel onderwerp is op een actieve en geloofwaardige manier neergezet waardoor het zeker geen standaard verhaal is geworden.Mijn voorkeur gaat zeker uit naar de reeks Boem Boem die voor mij net wat meer power heeft dan dat Bling Bling 1 had. Overigens is dat ook een prima start waarbij deel 2 en 3 zeker gaan volgen. "
-      }
-    ]
-  },
-  {
-    "id": "9200000108981897",
-    "title": "Laatste weduwe",
-    "author": "Karin Slaughter",
-    "desc": "Onderdeel van de serie Will Trent.         AD      Een onschuldig uitje verandert in een nachtmerrie wanneer Michelle Spivey wordt ontvoerd terwijl ze met haar dochter aan het winkelen is. De politie zet een grote zoekactie op touw en haar partner doet een emotionele oproep in de media, maar Michelle is en blijft spoorloos.             Een paar weken later, op een rustige zondagmiddag, worden Will Trent en Sara Linton plotseling opgeschrikt door het geluid van explosies. Ze gaan erop af, maar binnen no time loopt alles volledig uit de hand: Sara wordt gekidnapt en Will moet noodgedwongen undercover. De situatie voert hen naar een afgelegen plek in de bergen, naar de vreselijke waarheid over het lot van Michelle en een moordzuchtige radicale groepering...        Over Laatste weduwe        'Laatste weduwe is een heerlijke Slaughter: actueel, uitstekend uitgewerkte karakters en een even mysterieuze als ingenieuze plot.'   VN Detective- en Thrillergids        'Haar personages blijven ook na zovele boeken boeien'   Nieuwsblad         schrijft zo behendig dat je special agent Will Trent met zweet in je handen volgt in zijn poging te infiltreren in de terreurgroep.   AD         dit boek is Karin Slaughter opnieuw haast beangstigend actueel   NoordHollands Dagblad         Weduwe is d must-read thriller van deze zomer: brandend actueel, razend spannend en zoals altijd geweldig geschreven.   Het Laatste Nieuws         Slaughter bewijst alweer waarom ze al jaren tot de beste thrillerauteurs behoort.  Feeling         Queen of Crime heeft weer een bloedstollende thriller geschreven met Will Trent in de hoofdrol  Margriet        'Karin Slaughter geeft haar personages zo veel inhoud en ontwikkeling dat haar boeken, ook al loopt de serie al jaren, nog steeds blijven boeien.'  Nederlands Dagblad        'Vanaf de eerste bladzijden zit de spanning en beklemming erin en is het boek niet meer weg te leggen.'  Wendy   ",
-    "price": 9.99,
-    "average_rating": 4.6,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/thumb/FC/7/9/8/1/9200000108981897.jpg",
-    "reviews": [
-      {
-        "id": "111420017",
-        "author_name": "tjous",
-        "title": "Meeslepend meesterwerk",
-        "timestamp": "2019-05-30",
-        "rating": 100,
-        "comment": "Laatste weduwe is het zevende boek in de Georgia-reeks, geschreven door Karen Slaughter. Slaughter begon met twee reeksen: de Grant County-reeks, waarin kinderarts en lijkschouwer Sara Linton het hoofdpersonage is, en de Atlanta-reeks, met GBI-agent Will Trent als hoofdpersoon. In de Georgia-reeks zijn de hoofdpersonages samengevoegd en gaan hun verhaallijnen samen verder. Toch zijn de boeken in deze reeksen allemaal afzonderlijk van elkaar te lezen. Zo ook Laatste weduwe. Subtiel wordt gedurende het boek uitleg gegeven over dingen die in eerdere boeken gebeurd zijn, zoals wat er gebeurd is met de echtgenoten van beide hoofdpersonages en hoe Sara en Will elkaar hebben leren kennen. Als je nog nooit een boek van Karen Slaughter hebt gelezen, kun je dit boek dus gemakkelijk volgen. Wanneer je wel al eerder boeken van Slaughter hebt gelezen, zijn deze terugblikken zeker niet storend. Vooral omdat ze als logisch onderdeel in het verhaal van Laatste weduwe verweven zijn. Het boek begint bij de ontvoering van Michelle Spivey na een uitje in het winkelcentrum op 7 juli 2019. Het boek speelt zich daarom af in de nabije toekomst van het moment waarop het is geschreven (het is uitgekomen op 4 juni 2019). Een paar weken later volgen enkele explosies in de stad. Sara en Will gaan hier direct op af, maar komen niet ver. Hun roeping om mensen in nood te helpen, leidt ertoe dat ook Sara ontvoerd wordt. De ontvoerders blijken tot een radicale groepering te behoren. Het boek wordt geschreven vanuit de derde persoon. Slaughter heeft voor dit boek een meervoudig perspectief gekozen: elk hoofdstuk volgt de lezer een ander personage uit het boek. Het boek verloopt niet chronologisch: regelmatig lees je in verschillende opeenvolgende hoofdstukken over dezelfde tijdsperiode, maar vanuit het oogpunt van een ander personage. Zo weet je als lezer meer dan de personages. Karen Slaughter heeft zoals altijd een sterk verhaal neergezet. Doordat je de verschillende personages volgt, voel je hun wanhoop en leef je al snel met hen mee. Je leest hoe Sara denkt aan Will, van wie ze hoopt dat hij haar komt redden, en hoe Will tegelijkertijd bijna gek wordt van wanhoop, omdat hij niet weet waar Sara is. Het onderwerp dat Slaughter heeft gekozen, een moordzuchtige radicale groepering, is herkenbaar in de tijd waarin we leven, waarin radicalisering en angst voor aanslagen de toon voert. Het vertelperspectief en tijdsverloop waarvoor Slaughter heeft gekozen zijn zeer origineel, waardoor het lezen van meer boeken van deze schrijfster nooit saai wordt. Het boek is een aanrader voor eenieder die van thrillers houdt en niet vies is van expliciete beschrijvingen van seksuele ervaringen en bloederige scenes. Een sterke maag is geen overbodige luxe wanneer je leest over operaties buiten het ziekenhuis, koelbloedige moorden en tot in detail beschreven rottende lichamen. Toch laat Slaughter ook de nodige emotie toe in het boek, waardoor het de lezer ook emotioneel zeker niet koud laat.Het boek blijft tot het einde toe spannend en verrassend. Slaughter is en blijft een grootheid in het schrijven van thrillers."
-      },
-      {
-        "id": "111273173",
-        "author_name": "KellySohier",
-        "title": "spannend, meeslepend, een aanrader!",
-        "timestamp": "2019-05-24",
-        "rating": 100,
-        "comment": "Ik heb het geluk gehad om dit spannende boek reeds voor de release te mogen lezen. Aangezien ik al de boeken van Karin Slaughter gelezen heb ben ik ook bekend met Will Trent en Sarah Linton, de hoofdpersonages in deze nieuwe thriller.Voor mensen die nog niets gelezen hebben van deze reeks (breng hier maar snel verandering in!): ook zonder dat je de eerdere boeken gelezen hebt is dit verhaal meeslepend en geloof me, als je dit boek dan uit hebt ga je meer willen lezen over de personages die in dit boek meespelen.Laatste weduwe bouwt niet rustig aan op, maar gooit je meteen in de actie en laat je vaak aan het einde van een hoofdstuk achter met een grote honger naar meer, dus hou er rekening mee dat de tijd wel eens voorbij kan vliegen eens je in de wereld zit van Will, de slungelige politieman, en Sarah, kinderarts en lijkschouwer.Het verhaal begint met een ontvoering van een wetenschapper die onderzoek voert naar ziekten en verspreiding ervan, daarna maken we een sprong van een maand en gaat het verhaal verder vanuit het standpunt van Sarah en nog later wordt er verteld hoe Will alles meemaakt. En nee, dit is niet chaotisch of verwarrend maar maakt net sommige zaken duidelijker en zorgt er ook voor dat je vanuit verschillende standpunten de zaken meemaakt, je wordt als het ware echt in het verhaal gezogen. Ik zeg het nogmaals: eens je aan dit boek begint leg je het niet zomaar terug weg.Ik vind het nog steeds een heerlijke vlucht uit de realiteit als ik een boek van Karin Slaughter lees, je krijgt zoveel informatie mee over niet-fictieve vergelijkbare zaken als deze waaraan Will werkt dat je soms vergeet dat je fictie aan het lezen bent. Ook de beleving van de emoties van de hoofdpersonages worden zo goed verwoord, je leeft volledig mee en zit als het ware op het puntje van je stoel van spanning met momenten. Het is een beetje dubbelzinnig eigenlijk, je wil zo snel mogelijk weten hoe het verhaal afloopt, maar dan is het boek uit en moet je weer verder zonder Will en Sarah, het is even afkicken als het ware.Dus om af te sluiten: lees een goed boek als dit en vergeet even al je zorgen om je heen, laat je fantasie er de knapste Will en Sarah van maken die jij graag dit verhaal ziet beleven en geniet!"
-      },
-      {
-        "id": "111248373",
-        "author_name": "Sonja31",
-        "title": "Wederom een spannende Will en Sara thriller",
-        "timestamp": "2019-05-23",
-        "rating": 100,
-        "comment": "Ik mocht onderdeel gaan uitmaken van het reviewteam van Laatste weduwe van Karin Slaughter. Hiervoor mijn dank.Laatste weduwe bestaat uit vele korte hoofdstukken. Elk hoofdstuk wordt verteld vanuit een andere personage. Dit is niet storend, maar juist zeer spannend. Sommige hoofdstukken overlappen elkaar qua tijd, maar dit maakt het juist mogelijk om vanuit verschillende personages gelijkertijd het verhaal te beleven. Het voert de spanning juist meer op.Het is fijn om de oude bekende personages weer terug te zien, Will, Sara, Faith, Amanda!Het verhaal voert ons mee naar eerst de ontvoering van Michelle en een paar weken later de kidnapping van Sara. Je voelt de machteloosheid van Will. Doordat je steeds vanuit de verschillende personages meeleest, leef je enorm mee met allen. Des te verder je in het verhaal komt, des te meer je gaat beseffen met wat voor gruwelijks er staat te gebeuren. Het plot zit echt schitterend in elkaar! Uiteindelijk toch nog onverwachts en op een manier die je deels verwacht, maar ook deels niet.Laatste weduwe zit heel goed in elkaar en is een echte thriller, zoals we van Karin Slaughter gewend zijn in de thrillerreeks van Will en Sara. Ik heb weer enorm genoten van dit boek en zal deze zeker aanraden om te gaan lezen!"
-      }
-    ]
-  },
-  {
-    "id": "9200000115192682",
-    "title": "Vind me",
-    "author": "Andr Aciman",
-    "desc": "Andr Acimans Vind me, het langverwachte vervolg op zijn bestseller Noem me bij jouw naam, keert hij terug naar zijn hoofdpersonen, 15 jaar na die allesbepalende zomer.Vind me van Andr Aciman is het langverwachte vervolg op zijn bestseller Noem me bij jouw naam. In Vind me keert Andr Aciman terug naar de hoofdpersonen van zijn wereldwijde bestseller, vijftien jaar na die allesbepalende zomer.Elio's vader Samuel  gescheiden  is op weg naar Rome om een bezoek te brengen aan zijn zoon, die pianist geworden is. In de trein raakt hij in gesprek met Miranda, een jonge fotograaf. Het is een ontmoeting die zijn leven voorgoed zal veranderen. Elio verhuist kort daarop naar Parijs, waar ook hij een intense relatie krijgt, terwijl Oliver  inmiddels professor in de Verenigde Staten en vader van twee volwassen zoons  overweegt terug te keren naar Itali. Naar degene van wie hij nooit afscheid heeft kunnen nemen.Andr Aciman schrijft in Vind me opnieuw op meesterlijke wijze over gevoel, emotionele nuances en verlangen. Vind me voert de lezer terug naar de magie van een van de bekendste hedendaagse romances en toont de kracht van ware liefde.",
-    "price": 21.99,
-    "average_rating": 3.4,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/2/8/6/2/9200000115192682.jpg",
-    "reviews": [
-      {
-        "id": "115259946",
-        "author_name": "Fosselle",
-        "title": "Vind me. In de kiosk van een station...",
-        "timestamp": "2019-11-03",
-        "rating": 20,
-        "comment": "In het station van Florence begint het vervolg op 'Noem me bij jouw naam'. Een magistraal boek dat nu zowat iedereen bij naam kent dankzij de fenomenale verfilming. In 'Vind me' is professor op rust Samuel, Sami voor de vrienden op weg naar zijn zoon Eliot en ontmoet er op de trein naar Rome voor het eerst de jonge, oogverblindend knappe fotografe Miranda. Er bloeit en broeit al snel romantiek en 'erotische spanning ' die Aciman, docent vergelijkende literatuurwetenschap, voelbaar maakt in dialogen die zo uit een uitgave van de Bouquet-reeks lijken te komen:'Ik wil niet ophouden je te kennen' of'Vertel me alles wat je me al verteld hebt over alles in je leven, en ik vertel jou alles wat je van me wilt weten (...) , en' Ik zeg het je maar alvast: ik breng er de eerste keer weinig van terecht' of'Hou me vast Sami, alleen maar vasthouden en kussen'.Tussenin die voortdurend puberaal aandoende gesprekken laat Aciman zijn personage steeds weer opnieuw reflecteren over zijn saaie leven en hoe dat pas die dag echt mentaal en fysiek begint. Want het zal je op respectabele leeftijd gekomen maar overkomen. 'Al wat ik heb is van jou, al is het niet veel, dat weet ik' laat hij Miranda zeggen. En even later: 'O, natuurlijk wil ik een kind. Dat spreekt vanzelf. Maar dan wel van jou en van niemand anders (...). 'Kijk eens wat een vuurtoren' (Dat staat er echt hoor).Omdat de lezer tijdens de eerste 100 bladzijden van dit vervolgverhaal wel iets meer zou kunnen verwachten dan de amoureuze perikelen van Samuel bezoeken de tortelduifjes op die ene en dezelfde dag van hun ontmoeting een andere professor op rust (haar vader), een restaurant, een koffiebar, een priv-museum met onder meer beeldhouwwerken van Praxiteles en Antino (minnaar van de Romeinse keizer Hadrianus), plannen ze om eeuwig voor het middaguur in de Tyrreense zee te gaan zwemmen en wordt de lezer ook nog naar een lezing van Samuel geloodst. Over de inval van de Byzantijnen in Constantinopel en de catalogus van Photius... Een gebeurtenis waar Sami zelf liefst zo snel mogelijk weg wil omdat hij 'haar blozende gezicht voor zich zag'.Dat wilde ik ook wel, weg uit dit stationsromannetje . Als u bijna aan de helft van het boek raakt, wilt u eindelijk toch weten hoe het Eliot, uiteraard succesvol pianist geworden en professor Oliver, na 10 jaar is vergaan.? Vinden ze elkaar terug, worden er ooit nog perziken gegeten of andere vruchten uit hun vervlogen (?) passie geplukt?Eliot verschijnt na honderd bladzijden dan toch ten tonele en wat dan volgt is nog meliger en zelfs nog meer narcistisch van toon, stilistisch nog onbeholpener en narratief zo leeg dat het onmogelijk wordt om te 'spoilen'. Herlees de laatste 20 pagina's uit het (niet verfilmde) slot van 'Call me by your name' en u vindt daarin wat in dit boek tevergeefs te zoeken is: sprankelend, beeldig, mijmerend, eloquent taalgebruik, die geselende hunkering, de pittoreske, dronken makende sfeerschepping en de ravissante zintuiglijkheid. Dikwijls moest ik denken dat de auteur een ghostwriter aan het werk heeft gezet omdat voor hem sowieso het verhaal afgerond was. Moeilijk om dit een Aciman te noemen."
-      },
-      {
-        "id": "117946358",
-        "author_name": "Els04",
-        "title": "Wow!",
-        "timestamp": "2020-01-30",
-        "rating": 100,
-        "comment": "Vind me. Andr Aciman.Ik was, ben, dol op Noem me bij jouw naam (het boek) en Call me by your name (de film). En hoewel beide best een open einde hebben zat ik niet echt te wachten op een vervolg. In theorie snakte ik naar een vervolg. In de praktijk was ik er bang voor omdat vervolgen zo vaak tegenvallen. Zelfs al zijn ze origineel van opzet en niet zo maar  x aantal jaar later. Vind me is beide maar dan w goed. Oh wat heb ik het graag gelezen.Het bezit dezelfde begeestering, meeslependheid en romantiek als NMBJN. Het is iets minder koortsig (iedereen wordt ouder h) maar daarom niet minder verslavend. Je wil het in  ruk uitlezen. Aciman kan zinnen, dialogen, mijmeringen schrijven die eindeloos lang zijn en boeiend blijven tot de laatste letter. In vier delen, 4 verhalen, lezen we hoe het de hoofdpersonen van NMBJN ondertussen vergaat en hoe ze daar zijn gekomen. Eerst Elio vader die een jonge fotografe ontmoet op de trein, daarna Elio zelf die in Parijs woont, in deel drie gaat het over Oliver die gaat verhuizen, en in deel vier dat zelf maar. Elk deel zit vol liefde, wijsheid, melancholie en zelfs een vleugje magie. Niet alles wort ingevuld; er blijft ruimte voor mijmeringen, plaats voor fantasie. Een verfilming zou niet mis zijn.Aciman heeft het hem weer geflikt: hij laat ons dromen van een liefde die te mooi lijkt om waar te zijn, iets voor de film, voor zoete zwijmelliedjes, maar dat op zo een manier dat we geloven, weten, dat er voor ons ook zo een verhaal is weggelegd. Ware, kwetsbare liefde schuilt in elk van ons, als we maar moedig genoeg zijn om ons hart open te stellen. Te beginnen met dit prachtboek."
-      },
-      {
-        "id": "115612312",
-        "author_name": "El1o",
-        "title": "De vaderfiguur als hoopgever",
-        "timestamp": "2019-11-12",
+        "id": "99431302",
+        "author_name": "Burgerman",
+        "title": "Voor ieder wat wils!",
+        "timestamp": "2018-01-18",
         "rating": 60,
-        "comment": "Een wat commercieel vervolg op Call me by your name. De thematiek is schraal, eentonig."
-      }
-    ]
-  },
-  {
-    "id": "1001004010930087",
-    "title": "De boerderij",
-    "author": "Marion Billet",
-    "desc": "Jonge kinderen kijken graag in boeken, maar naar dit boekje kun je ook luisteren. Probeer het zelf maar! Een eerste kennismaking met de dieren van de boerderij in woord, beeld  geluid.",
-    "price": 13.95,
-    "average_rating": 4.6,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/thumb/FC/7/8/0/0/1001004010930087.jpg",
-    "reviews": [
+        "comment": "Inderdaad 500 recepten, maar daarvan wel veel combinatierecepten. Anderzijds voor een ieder wat wils met heel snelle en eenvoudige recepten, maar ook wat meer bewerkelijke recepten. Hebben er al diverse van gemaakt en zijn voor ons, als beginnende ijsmakers, prima te doen met heerlijke eindresultaten."
+      },
       {
-        "id": "91073004",
-        "author_name": "Sniesje",
-        "title": "Leuke prenten, realistische geluiden",
-        "timestamp": "2017-07-25",
+        "id": "94427984",
+        "author_name": "Retcher",
+        "title": "Moet je hebben!",
+        "timestamp": "2017-10-17",
         "rating": 100,
-        "comment": "Dit is een heel leuk boekje met leuke prenten en realistische geluiden. De geluiden zijn zacht en toch duidelijk te horen voor jonge oortjes, waardoor ze niet storend zijn voor de ouders. Het veroorzaakt geen 'lawaai'. Mijn zoontje van 15 maanden had snel door waar hij moest duwen om geluid te krijgen,en had geen moeite het zelf te activeren. Nu, op 23 maanden, geniet hij nog steeds van de boekjes, en ze werken nog steeds, desondanks dat ze hebben afgezien.Dit boekje heeft ook op elke nieuwe prent een vlindertje. Mijn zoontje amuseert zich vaak met 'vlindertje zoeken' naast de geluiden horen en nabootsen.Wat hij hier ook geweldig vindt, is dat het geluid bij het paardje niet enkel gehinnik is, maar ook hoefgetrappel.We hebben dit boekje net nog cadeau gedaan."
-      },
-      {
-        "id": "34194910",
-        "author_name": "Eniles",
-        "title": "een gegarandeerd succes!",
-        "timestamp": "2014-02-11",
-        "rating": 100,
-        "comment": "Deze geluidsboekjes blijken voor kinderen vanaf ongeveer 1 tot 2 jaar telkens een succes. Ook als ze zelf nog niet de knopjes kunnen indrukken, zullen ze verrast zijn door de geluiden. En als ze eenmaal doorhebben hoe ze de geluidjes kunnen activeren, hebben ze er maanden plezier van. Alle boekjes in deze serie zijn leuk, maar de Boerderij is een goed boekje om mee te beginnen, omdat de meeste jonge kinderen deze dieren (varken, paard, schaap etc.) al (her)kennen. De boekjes zijn stevig, dus prima geschikt voor veelvuldig gebruik. Ook leuk om cadeau te doen. Een aanrader!"
-      },
-      {
-        "id": "31480753",
-        "author_name": "jufylona",
-        "title": "Tuut!!!!t!Tuut!!!!!!",
-        "timestamp": "2013-10-30",
-        "rating": 80,
-        "comment": "Geweldig leuk boekje voor mijn tien maanden oude baby! Als ik het boekje pak kraait hij van plezier omdat hij weet dat er geluiden uit het boekje komen. Hij mag zelf op de knopjes drukken. De geluiden zijn heel realistisch. Een aanrader.wij lezen het elke morgen na de ochtend fles!"
-      }
-    ]
-  },
-  {
-    "id": "9200000056170028",
-    "title": "Joris en de geheimzinnige toverdrank",
-    "author": "Roald Dahl",
-    "desc": "Joris en de geheimzinnige toverdrank is een fantastisch kinderboek van de wereldberoemde bestsellerauteur Roald Dahl. Met prachtige tekeningen van bekroond illustrator Quentin Blake.Joris woont op een boerderij, ver van alles af. Op een zaterdagochtend moet hij in zijn eentje op zijn grootmoeder passen, maar Joris haat zijn grootmoe, dat akelige, hekserige ouwe wijf. Hij bedenkt een plan: hij gaat een toverdrankje voor haar maken. Er gaat van alles in: kanariezangzaad, varkenstabletten, motorolie en nog veel meer. Grootmoe drinkt het drankje en ze groeit en groeit. Ze gaat door het plafond en zelfs door het dak heen! Wanneer Joris en zijn vader besluiten nog meer toverdrankjes te gaan maken, gebeuren de vreemdste dingen.'Roald Dahl is de beste kinderboekenschrijver ter wereld.' - VPRO-gids",
-    "price": 17.95,
-    "average_rating": 4.6,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/2/0/0/9200000056170028.jpg",
-    "reviews": [
-      {
-        "id": "54652844",
-        "author_name": "Wormerveer",
-        "title": "joris",
-        "timestamp": "2015-09-16",
-        "rating": 80,
-        "comment": "Als jong kind hadden mijn kinderen een cassette bandje met het voorgelezen verhaal op de achterbank als we op vakantie gingen. Nu als 27 jarige vrouw heeft mijn dochter het boek gekregen. Ze is er dol blij mee!!!!Heerlijk boek om te lezen!! Nostalgie...."
-      },
-      {
-        "id": "29028033",
-        "author_name": "RVanSchaik",
-        "title": "Aanrader! Prachtig verhaal en mooi verteld.",
-        "timestamp": "2013-08-21",
-        "rating": 100,
-        "comment": "Wij zetten de luisterboeken op in de auto op weg naar onze vakantiebestemming. Onze kinderen (jongste drie jaar, oudste negen) gaan er helemaal in op en, niet onbelangrijk, ook voor ons is het prettig om naar te luisteren. Joris & de geheimzinnige toverdrank is een heerlijk verhaal vol grappen. Het verhaal wordt zeer goed voorgelezen en verveelt geen moment. Overigens, ook de GVR is een aanrader (ook voorgelezen door Jan Meng, knap dat  verteller zoveel personages een eigen stem kan geven!)"
-      },
-      {
-        "id": "39544353",
-        "author_name": "kane1980",
-        "title": "Erg leuk",
-        "timestamp": "2014-08-11",
-        "rating": 100,
-        "comment": "-Leuk boek-Goede schrijver-fantastierijkDeze is zekers aan te raden als je een leuk voorleesboek wilt hebben voor kinderen"
-      }
-    ]
-  },
-  {
-    "id": "9200000079578775",
-    "title": "Dagboek van een muts 11 - BFF's voor even",
-    "author": "Rachel Ren Russell",
-    "desc": "Onderdeel van de serie  Dagboek van een muts. BFF's voor even is het elfde deel in de succesvolle meidenserie Dagboek van een muts, geschreven door Rachel Ren Russell. Met in de hoofdrol Nikki Maxwell, blunderkoningin.Nikki mag meedoen aan een schooluitwisseling. Cool, toch? Nou, niet helemaal. Want wie zit er sinds kort op de school waar Nikki een week naartoe gaat? Precies! Aartsvijand MACKENZIE! Nikki kan wel janken. Zal MacKenzie haar de ellendigste week EVER bezorgen of gedraagt ze zich voor  keer?Reacties op Dagboek van een muts:'Een aanrader voor alle meiden' - CooleSuggesties.nl'Alleen al van de tekeningen word je gigavrolijk.' - Tina'Een schot in de roos voor tieners!' - The Bookseller",
-    "price": 22.2,
-    "average_rating": 4.8,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/5/7/7/8/9200000079578775.jpg",
-    "reviews": [
-      {
-        "id": "93563648",
-        "author_name": "Lezerenspeler123",
-        "title": "Must have voor meiden!",
-        "timestamp": "2017-09-25",
-        "rating": 100,
-        "comment": "Het boek ziet er allereerst superleuk uit! Dit wil ieder meisje in haar kast hebben staan. Grappig verhaal, aantrekkelijk voor meisjes vanaf een jaar of 9. Ook voor minder fanatieke lezers is het een aanrader."
-      },
-      {
-        "id": "94593979",
-        "author_name": "EBZwaan",
-        "title": "Leuk cadeau voor jonge meiden",
-        "timestamp": "2017-10-23",
-        "rating": 100,
-        "comment": "'BFF's voor even' is een leuk boek voor jonge meiden (ook als ze minder houden van lezen!) Het leest fijn en is grappig, ondanks de ellende die de hoofdpersoon telkens weer meemaakt."
-      },
-      {
-        "id": "93117020",
-        "author_name": "SaviDePanda",
-        "title": "Mening",
-        "timestamp": "2017-09-10",
-        "rating": 100,
-        "comment": "Het is nieuw voor mij! Ik vind het leuk"
-      }
-    ]
-  },
-  {
-    "id": "9200000101886991",
-    "title": "Breng me terug",
-    "author": "B.A. Paris",
-    "desc": "Breng me terug is de nieuwe thriller van bestsellerauteur B.A. Paris, bekend van Achter gesloten deuren en Gebroken. Een jong stel rijdt door Frankrijk en stopt onderweg bij een benzinestation. Finn stapt uit om te tanken en te betalen, maar wanneer hij terugkomt bij de auto is Layla spoorloos verdwenen. Ze wordt nooit teruggevonden. Twaalf jaar later is Finn verloofd en gelukkig  zijn verleden heeft hij achter zich gelaten. Tot hij op een middag thuiskomt van zijn werk en zijn verloofde op de bank ziet zitten. Ze houdt iets in haar handen, houdt het tegen het licht. Een object zonder enige waarde, behalve voor Finn en Layla. Is zijn eerste liefde teruggekeerd? Of speelt iemand een spel met hen? Breng me terug van B.A. Paris gaat over de impact van een verdwijning. En over het feit dat iedereen wel iets te verbergen heeft",
-    "price": 11.0,
-    "average_rating": 3.7,
-    "image_src": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/9/9/6/9200000101886991.jpg",
-    "reviews": [
-      {
-        "id": "103360365",
-        "author_name": "AxelleL",
-        "title": "Breng me terug",
-        "timestamp": "2018-06-29",
-        "rating": 60,
-        "comment": "Breng me terug gaat over Finn die gelukkig is met de zus van Layla, Ellen, nadat Layla zou ontvoerd zijn. Maar is alles wel wat het lijkt?Het boek begint voor mij wat traag. Tot ongeveer iets na de helft van het boek vraag ik me af of dit boek wel een thriller is of niet. Ik had eerder het gevoel dat het een roman was met een paar spannende stukjes tussen. Dit had ik ook bij B.A. Paris haar ander boek  Gesloten Deuren. Maar net zoals ik dacht bracht het einde daar terug verandering in. Ik blijf het ergens wel spijtig vinden dat het begin niet zo de thriller spanning heeft. Op dat vlak vond ik dit boek wat teleurstellend. Het plot daarentegen is wel goed. Ik had in de juiste richting zitten denken, maar uiteindelijk zat ik dan toch mis en als een thriller me dit gevoel kan geven ben ik blij. Wat ik mij wel afvraag is hoe het niet duidelijk was voor Finn. Ook de proloog waar de toekomst voor Finn beschreven wordt, vind ik maar vaag en spijtig. Hoe kan zoiets nu niet uitgekomen zijn?Los van de puntjes kritiek, vond ik het wel een aangenaam boek om te lezen en het las als een trein. De opbouw mag iets sneller gaan voor mij, maar al bij al maakt dat toch geen slecht boek. Het is een goed boek, maar lees het niet met al te hoge thriller verwachtingen. Ik geef het boek 3,5 sterren."
-      },
-      {
-        "id": "104559400",
-        "author_name": "David81",
-        "title": "Zo overdreven en saai",
-        "timestamp": "2018-08-25",
-        "rating": 20,
-        "comment": "Ik heb zo genoten van de 2 vorige boeken van B.A.Paris maar dit boek is een tegenvaller. Zo saai.  De laatste 40 bladzijden wordt het ietwat spannend maar het einde is dan zo ongeloofwaardig. Jammer"
-      },
-      {
-        "id": "103574462",
-        "author_name": "silkepb",
-        "title": "zins begoochelend spel",
-        "timestamp": "2018-07-10",
-        "rating": 80,
-        "comment": "B.A. Paris is bekend van Achter gesloten deuren en Gebroken, beide zeer populaire thrillers. Haar boeken zijn zeker origineel te noemen, het zijn niet de traditionele thrillers, waarin er een moord gepleegd wordt en een of andere inspecteur op onderzoek gaat. Bij B.A. Paris wordt er steeds op een andere manier een misdaad gepleegd waardoor lezers telkens op een verkeerd spoor gezet worden. Ik heb enkel Achter gesloten deuren reeds gelezen en enorm van het verhaal genoten, hoewel ik het nogal moeilijk had met de schrijfstijl. En net zoals in haar voorgaande boeken is Breng me terug opnieuw een spannende en originele thriller, waarbij je als lezer de plot totaal niet kunt zien aankomen.In een eerste deel van het verhaal wordt alles verteld vanuit het perspectief van Finn, via flashbacks wordt er afwisselend gesprongen van het heden naar twaalf jaar geleden, toen Layla verdween. In een tweede deel zijn afwisselend Layla en Finn aan het woord. Op deze manier leer je de personages wel goed kennen en weet je wat er in hen omgaat. De auteur heeft een eenvoudige, oppervlakkige schrijfstijl, soms mis ik dan ook wat meer diepgang in de personages, maar dit kan wel eens opzettelijk zo zijn om geen spoilers te verklappen.Het verhaal speelt een zins begoochelend spelletje met zijn lezers, niets is wat het lijkt en na het lezen zal je zeker nooit meer op dezelfde manier naar de kleine matroesjka-poppetjes kijken ! Meerdere keren zat ik dan ook op het verkeerde spoor, dus spanning verzekerd! Het boek leest bovendien als een trein, in geen tijd had ik het uitgelezen. Ik ben dan ook zeker benieuwd naar de komende boeken van deze auteur, en vooral met welk kronkels zij dan de lezer zal verrassen.Breng me terug is zeker een aanrader voor de thrillerfans die eens iets anders willen dan de bekende klassieke thrillers, maar ook andere lezers die eens iets spannends willen lezen zullen dit boek goed vinden. Het verhaal is weer top, maar de schrijfstijl vond ik iets te oppervlakkig. Daarom krijgt dit boek een score van 4 sterren."
+        "comment": "Mooi en stevig boek. Een harde kaft en prachtige foto's. Goede uitleg natuurlijk ook. Een echt naslagwerk!"
       }
     ]
   }
